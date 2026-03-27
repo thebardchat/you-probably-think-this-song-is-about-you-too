@@ -29,9 +29,9 @@ Just aged. Not old — aged. There's a difference. Old is a number. Aged is what
 
 The hovering flowers. Something that looked like an engagement — the specific electricity of a circle of people around a thing about to become permanent.
 
-Ciro asked where he was going.
+The driver asked where he was going.
 
-To the dial. My girlfriend is supposed to be there.
+To the diner. My girlfriend is supposed to be there.
 
 Simple. True. Already late. Tried for the early one. Already too late for the early one.
 
@@ -55,7 +55,7 @@ Oh my goodness.
 
 He ran.
 
-Not metaphorically. Actually ran. The kind of running that has no dignity in it and doesn't ask for any. Feet on pavement, flowers in hand, bags under eyes that were maybe his and maybe borrowed, toward a dial, toward a diner, toward a girl who was supposed to be there.
+Not metaphorically. Actually ran. The kind of running that has no dignity in it and doesn't ask for any. Feet on pavement, flowers in hand, bags under eyes that were maybe his and maybe borrowed, toward a diner, toward a girl who was supposed to be there.
 
 Supposed to be.
 
@@ -63,7 +63,7 @@ Two of the most dangerous words in the English language standing next to each ot
 
 ---
 
-He didn't slow down to think about it. That was the whole move — don't slow down. The detective who slows down starts asking questions. The questions stack up. The stack gets heavy. The heavy thing pins you to the spot where you were standing when you should have been running and now she's at the dial and you're on the platform and the early train already left and you watched it go and called it philosophy.
+He didn't slow down to think about it. That was the whole move — don't slow down. The detective who slows down starts asking questions. The questions stack up. The stack gets heavy. The heavy thing pins you to the spot where you were standing when you should have been running and now she's at the diner and you're on the platform and the early train already left and you watched it go and called it philosophy.
 
 Not today.
 
@@ -91,7 +91,7 @@ He was running to ask for her hand.
 
 ---
 
-The dial up ahead. The door. The specific rectangle of light that meant she was inside and the inside was warm and whatever half was missing from the room back there was waiting in this one.
+The diner up ahead. The door. The specific rectangle of light that meant she was inside and the inside was warm and whatever half was missing from the room back there was waiting in this one.
 
 He fixed the flowers.
 
@@ -99,7 +99,7 @@ Caught his breath.
 
 Didn't fully catch it.
 
-Went in anyway.
+Sat down anyway.
 
 ---
 

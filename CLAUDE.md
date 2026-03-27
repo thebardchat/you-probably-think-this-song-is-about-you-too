@@ -43,7 +43,7 @@ The detective exists in a multidimensional realm. He is pulled out of his own re
 3. **No lectures. No sermons. No judging.** The detective drives through the world and notices. He does not explain, preach, or moralize.
 4. **Humor is dry**, placed where the reader doesn't expect it. Self-aware without being self-conscious.
 5. **Callbacks land as echoes**, not repetition. Same image in multiple tracks but with different weight. Same cupholder rattle but it means something different because the detective is different.
-6. **No names.** The detective is never named. Characters are described by what they do. Exception: **Pepe** — you name someone when you're trying to save them.
+6. **No names.** The detective is never named. NO character is named. Characters are described by what they do or how they appear: the waiter, the bartender, the loud man, the thick one, the quiet one, the wet-eyed one, the Brazilian, the solitary man, the beggar, the Englishman, the woman in the red dress, the wine bar woman, the cook. ONLY TWO NAMES EXIST IN THE ENTIRE ALBUM: **Pepe** (twice — introduction in Track 002 and the gut punch in Track 007) and **Gerald** (the cat — mundanely funny, earned it). Every other name was cut. The detective's world has roles, not names. This is the rule. Do not break it.
 7. **Shape Shane's voice, don't reimagine it.** The shaped version = what Shane was thinking. Polish and connect, don't invent. The roughness IS the texture. Shane's raw voice in a tuxedo — same person, different clothes.
 
 ### Content Rules
@@ -355,13 +355,23 @@ ShaneBrain MCP server (port 8100) can be used for:
 
 ---
 
-## Publishing Plan
+## Publishing Plan — Two Versions
 
+### Published Version (tightened)
+- Lean, fast, every word earns its seat
+- Tracks 009 (The Tip), 010 (The Entrance), 011 (The Shift), 012 (The Pour) get trimmed — backstories tightened, core moments preserved
+- Target: ~30,000 words / ~3 hours audio
 - **Gumroad:** [link coming]
 - **Amazon KDP:** [link coming]
 - **Audiobook platforms:** [link coming]
-- Volume One currently being processed for publication
-- Volume Two ships when the album ships
+
+### Director's Cut (full, uncut)
+- All ~43,000 words. Every backstory. Every mundane detail. Gerald's full schedule. The thick one's mother's dough. The cook's honest food. The Brazilian's wine teeth.
+- Lives behind a hidden door — QR code in the back of the book, locked Discord channel, email list exclusive
+- The detective would hide it. Because the detective hides everything that matters.
+- True fans find it. That's the whole point.
+
+Volume One currently being processed for publication. Volume Two ships when the album ships.
 
 ---
 

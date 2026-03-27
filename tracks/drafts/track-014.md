@@ -67,7 +67,7 @@ Not the stutter. Not the skip. Not the groove going shallow. The world — the a
 
 He was speaking to himself.
 
-The detective on the phone was the man he had hired. Three weeks ago. In a bar that was not Antonio's but could have been Antonio's because all bars where desperate men hire other men to confirm the thing they already know look the same — dim, sticky, the kind of light that forgives the conversation but not the reason for it.
+The detective on the phone was the man he had hired. Three weeks ago. In a bar that could have been any bar because all bars where desperate men hire other men to confirm the thing they already know look the same — dim, sticky, the kind of light that forgives the conversation but not the reason for it.
 
 He had hired a detective.
 
@@ -95,7 +95,7 @@ The detective had been at a table the whole time.
 
 Not floating. Not above. Not in the crane shot. Not in the out-of-body. At a table. In the diner. With a coffee that went cold and a camera that didn't and the professional, clinical efficiency of a man who watches other people's worst moments for a living and files them under the name on the invoice.
 
-The detective was sitting in the same diner as the woman in the red dress. As the Englishman with the flowers. As the beggar and the waiter and the waitress and the bartender and the solitary man and Luca and Marco and Tomás and Gianluca and Rafael.
+The detective was sitting in the same diner as the woman in the red dress. As the Englishman with the flowers. As the beggar and the waiter and the waitress and the bartender and the solitary man and the loud man and his four brothers.
 
 He was one of the seven.
 
@@ -161,9 +161,9 @@ And the last thing — the very last thing — was the bottle.
 
 Spinning.
 
-In the air. Behind the back. Over the shoulder. The amber glass catching the light from the overhead rack — the same light, the same arc, the same ten-thousand-times gesture. Sandro's hands had released the bottle one second before the car came through the window. The bottle was already in the air. The bottle was always in the air. The bottle didn't know about the car. The bottle didn't know about Pepe. The bottle didn't know about the red dress or the detective or the twenty minutes or the coffee shop two blocks down.
+In the air. Behind the back. Over the shoulder. The amber glass catching the light from the overhead rack — the same light, the same arc, the same ten-thousand-times gesture. The bartender's hands had released the bottle one second before the car came through the window. The bottle was already in the air. The bottle was always in the air. The bottle didn't know about the car. The bottle didn't know about Pepe. The bottle didn't know about the red dress or the detective or the twenty minutes or the coffee shop two blocks down.
 
-The bottle was doing what bottles do when Sandro's hands release them.
+The bottle was doing what bottles do when The bartender's hands release them.
 
 It was flying.
 
@@ -185,7 +185,7 @@ The diner. The table. The cold coffee. The camera. The case file.
 
 Except the outcome never changed.
 
-That split second — the one second, the same second, the second that held everything and nothing and the proposal and the betrayal and the beggar and the waitress and the bartender and the solitary man and Luca and the dream and the banana phone and the planet filing its taxes — that second still happened just the same.
+That split second — the one second, the same second, the second that held everything and nothing and the proposal and the betrayal and the beggar and the waitress and the bartender and the solitary man and the loud man and the dream and the banana phone and the planet filing its taxes — that second still happened just the same.
 
 Every version of the second happened.
 

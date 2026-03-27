@@ -7,7 +7,7 @@
 
 ## Lyrics
 
-The rip from Luca was the worst one yet.
+The rip from the loud man was the worst one yet.
 
 Not because it hurt — they all hurt. Because of what it took with it. The joy. The weight. The table with four men who turned when you walked in. The Portuguese toast still dissolving in the air like something sacred that the sky had no right to carry away. The detective felt it leave him the way heat leaves a room when someone opens the wrong window — all at once, from everywhere, replaced by something that was not cold but was the specific absence of warm.
 
@@ -41,45 +41,45 @@ Not the diner shift — the diner closed at 10. The last hour was side work. Fol
 
 He'd changed in the back. Not the locker room — there was no locker room. The closet. The closet that was also the mop storage and the extra napkin storage and the place where the prep cook kept a sleeping bag for the nights when the prep cook didn't go home, which was most nights, because the prep cook's home was a room above a shop that smelled like the shop and the shop sold fish and sleeping in a closet that smelled like bleach was, in the prep cook's arithmetic, the better option.
 
-He'd changed out of the white shirt and the black apron into the clothes he kept in a bag under the shelf — jeans, a t-shirt that used to be black and was now the color of a thing that used to be black, trainers with the soles peeling at the toe. The transformation was instant. In the shirt and apron he was the waiter — the professional, the smooth one, the choreographer of the terrace, the man who served with a smile that had a price. In the jeans and the dead-black t-shirt he was Enzo.
+He'd changed out of the white shirt and the black apron into the clothes he kept in a bag under the shelf — jeans, a t-shirt that used to be black and was now the color of a thing that used to be black, trainers with the soles peeling at the toe. The transformation was instant. In the shirt and apron he was the waiter — the professional, the smooth one, the choreographer of the terrace, the man who served with a smile that had a price. In the jeans and the dead-black t-shirt he was just a man.
 
-Enzo Ferrara. Twenty-seven. Terrace section. Good with regulars. Better with tourists. Best with the tables that ordered wine because the wine tables tipped on the total and the total included the markup and the markup was where the money hid.
+Twenty-seven. Terrace section. Good with regulars. Better with tourists. Best with the tables that ordered wine because the wine tables tipped on the total and the total included the markup and the markup was where the money hid.
 
-Enzo walked out the back door and the night was waiting for him the way the night always waited for him — open, dark, full of the specific promise that only exists between 11 PM and the moment you realize it's 3 AM and the promise has been cashed and the receipt is going to hurt.
-
----
-
-Claudia was outside.
-
-Claudia worked at the place two doors down — wine bar, small, the kind that played jazz that nobody listened to and served cheese boards that everyone photographed. Claudia had been waiting because Claudia always waited because Claudia and Enzo had an arrangement that was not a relationship and was not a friendship and was not anything with a name because naming it would require a conversation and conversations required sobriety and sobriety was not the plan.
-
-*"Antonio's?"*
-
-*"Antonio's."*
-
-Antonio's was four blocks away. Antonio's was the industry bar. The bar where the waiters and the bartenders and the cooks and the hosts and the dishwashers went after their shifts to drink at the prices that civilians paid at their restaurants, which meant cheap, which meant fast, which meant the night had a velocity that started at the first drink and didn't slow down until the street turned sideways.
+He walked out the back door and the night was waiting for him the way the night always waited for him — open, dark, full of the specific promise that only exists between 11 PM and the moment you realize it's 3 AM and the promise has been cashed and the receipt is going to hurt.
 
 ---
 
-The walk to Antonio's collected people the way a snowball collects snow.
+The woman from the wine bar was outside.
 
-Davide from the wine bar — Claudia's bartender, the one who poured slow and talked fast and had opinions about natural wine that he delivered with the conviction of a man who had confused preference with personality. He joined at the corner.
+She worked at the place two doors down — small, the kind that played jazz that nobody listened to and served cheese boards that everyone photographed. She had been waiting because she always waited because the two of them had an arrangement that was not a relationship and was not a friendship and was not anything with a name because naming it would require a conversation and conversations required sobriety and sobriety was not the plan.
 
-Marta from the hotel restaurant — the one with the Michelin ambition and the municipio health code and the gap between the two was where Marta's patience went to die every night. She was already at Antonio's when they arrived. She'd been there since 10:30. She had a head start and the head start showed.
+*"The usual?"*
 
-Paulo. The cook. Not from the diner — from somewhere else, somewhere that closed earlier, somewhere that served the kind of food that Paulo called *honest* and the food critics called *rustic* and the distinction was the distance between Paulo's rent and Paulo's dream. Paulo didn't talk much. Paulo drank with the quiet efficiency of a man who had been on his feet for fourteen hours and needed the drink the way a car needs petrol — not for pleasure, for function.
+*"The usual."*
 
-They took over the back table. They always took over the back table. The back table at Antonio's was the industry table the way the terrace at the diner was the tourist table — claimed, understood, defended without discussion.
+The usual was four blocks away. The industry bar. The bar where the waiters and the bartenders and the cooks and the hosts and the dishwashers went after their shifts to drink at the prices that civilians paid at their restaurants, which meant cheap, which meant fast, which meant the night had a velocity that started at the first drink and didn't slow down until the street turned sideways.
+
+---
+
+The walk to the industry bar collected people the way a snowball collects snow.
+
+The wine bar bartender — the one who poured slow and talked fast and had opinions about natural wine that he delivered with the conviction of a man who had confused preference with personality. He joined at the corner.
+
+The hotel one — the one with the Michelin ambition and the health code and the gap between the two was where patience went to die every night. She was already there when they arrived. She'd been there since 10:30. She had a head start and the head start showed.
+
+The cook. Not from the diner — from somewhere else, somewhere that closed earlier, somewhere that served the kind of food the cook called *honest* and the food critics called *rustic* and the distinction was the distance between rent and dream. The cook didn't talk much. The cook drank with the quiet efficiency of a man who had been on his feet for fourteen hours and needed the drink the way a car needs petrol — not for pleasure, for function.
+
+They took over the back table. They always took over the back table. The back table at the industry bar was the industry table the way the terrace at the diner was the tourist table — claimed, understood, defended without discussion.
 
 ---
 
 The drinking started the way industry drinking starts — with the shift.
 
-*Can you believe table nine? Can you believe the woman at the bar? Can you believe the ticket that came in at 9:47 when the kitchen was already breaking down and the cook had to — Paulo, tell them — Paulo had to refire the whole station because someone wanted the fish but not the way the fish comes, the other way, the way the fish doesn't come, the way the fish has never come, the way the fish will never come because the fish is the fish and it comes the way it comes and if you want it the other way go to the other place.*
+*Can you believe table nine? Can you believe the woman at the bar? Can you believe the ticket that came in at 9:47 when the kitchen was already breaking down and the cook had to — tell them — he had to refire the whole station because someone wanted the fish but not the way the fish comes, the other way, the way the fish doesn't come, the way the fish has never come, the way the fish will never come because the fish is the fish and it comes the way it comes and if you want it the other way go to the other place.*
 
 This lasted an hour. Maybe two. The shift stories burned through the drinks the way fuel burns through an engine — hot, fast, necessary, producing forward motion but no distance. Nobody went anywhere. The shift stories were the warm-up. The real drinking hadn't started yet.
 
-The real drinking started when the shift stories ran out and the table got quiet and someone — Claudia, probably, it was usually Claudia — said the thing that cracked the evening open:
+The real drinking started when the shift stories ran out and the table got quiet and someone — the wine bar woman, probably, it was usually her — said the thing that cracked the evening open:
 
 *"So what are we actually doing with our lives?"*
 
@@ -87,17 +87,17 @@ Nobody answered. Everybody drank. That was the answer.
 
 ---
 
-The night turned the way nights turn in industry circles — from talk to noise to movement. Antonio's became somewhere else. The somewhere else became another somewhere else. The streets blurred. The group expanded and contracted like a lung — people arriving, people leaving, people you knew and people you'd know by the end of the night and forget by the morning.
+The night turned the way nights turn in industry circles — from talk to noise to movement. The industry bar became somewhere else. The somewhere else became another somewhere else. The streets blurred. The group expanded and contracted like a lung — people arriving, people leaving, people you knew and people you'd know by the end of the night and forget by the morning.
 
-Enzo was at the center of it. Not because he chose to be — because the center was where the waiter lived. The same skill that made him good at the terrace made him good at the night: reading the room, anticipating the need, placing himself at the exact point where the energy was highest and riding it like a wave that he knew would crash but hadn't crashed yet and the not-yet was the whole game.
+The waiter was at the center of it. Not because he chose to be — because the center was where the waiter lived. The same skill that made him good at the terrace made him good at the night: reading the room, anticipating the need, placing himself at the exact point where the energy was highest and riding it like a wave that he knew would crash but hadn't crashed yet and the not-yet was the whole game.
 
 Someone had something. Not a drink — the other thing. The thing that lives in the pocket and comes out in the bathroom of the second bar or the third bar or the alley between the second and the third. The thing that turns midnight into a suggestion rather than a fact. The thing that makes the jaw tight and the eyes wide and the conversation faster than the thoughts behind it and the thoughts don't mind because the thoughts were never really in charge.
 
-Enzo partook.
+The waiter partook.
 
-Enzo always partook.
+He always partook.
 
-Enzo partook the way Enzo drank — with the professional efficiency of a man who had learned to poison himself on a schedule that allowed for a 10 AM shift the next day. Not too much. Just enough. Just enough to keep the night from becoming morning, to hold the dark in place, to convince the clock that 3 AM was not 3 AM but rather a different, more negotiable version of time that the body and the city had agreed to in the unwritten contract of being twenty-seven and alive and employed in an industry that runs on the fuel of people who haven't figured out yet that the fuel is them.
+He partook the way he drank — with the professional efficiency of a man who had learned to poison himself on a schedule that allowed for a 10 AM shift the next day. Not too much. Just enough. Just enough to keep the night from becoming morning, to hold the dark in place, to convince the clock that 3 AM was not 3 AM but rather a different, more negotiable version of time that the body and the city had agreed to in the unwritten contract of being twenty-seven and alive and employed in an industry that runs on the fuel of people who haven't figured out yet that the fuel is them.
 
 ---
 
@@ -105,9 +105,9 @@ The night turned to day the way it always turned to day — without permission.
 
 One moment the street was dark and full of industry people making industry noise and the next moment the light was there. Not sunrise — pre-sunrise. The gray. The specific gray of a European morning that arrives not with fanfare but with the quiet, municipal authority of a streetlamp turning off because the timer said so.
 
-Enzo was walking home.
+The waiter was walking home.
 
-He was alone now. Claudia was gone — peeled off at the second bar or the third, he couldn't remember, the peeling had happened in the part of the night that the memory had already redacted for his own protection. Davide was gone. Marta was gone. Paulo was probably still at Antonio's or asleep in the closet at his restaurant or somewhere in the city doing the Paulo thing, which was existing without narration.
+He was alone now. The wine bar woman was gone — peeled off at the second bar or the third, he couldn't remember, the peeling had happened in the part of the night that the memory had already redacted for his own protection. The wine bar bartender was gone. The hotel one was gone. The cook was probably still at the industry bar or asleep in the closet at his restaurant or somewhere in the city doing the cook thing, which was existing without narration.
 
 The street was his. The street and the headache that was beginning to assemble itself behind his left eye like a construction crew that had arrived early and was waiting for the foreman to say *begin*.
 
@@ -123,7 +123,7 @@ The bum was there.
 
 ---
 
-The same one. Always the same one. Wedged into the alcove beside the door where the mailboxes were, wrapped in a sleeping bag that had lost its color the way Enzo's t-shirt had lost its black — gradually, through use, through the accumulated friction of being the only thing between a body and the ground.
+The same one. Always the same one. Wedged into the alcove beside the door where the mailboxes were, wrapped in a sleeping bag that had lost its color the way The waiter's t-shirt had lost its black — gradually, through use, through the accumulated friction of being the only thing between a body and the ground.
 
 *"Muoviti. Move. I need to get in."*
 
@@ -131,19 +131,19 @@ He said it the way he always said it. Not mean. Not kind. The specific tone of a
 
 The man moved. The way the man always moved. Slowly. Without complaint. Without eye contact. The specific choreography of a person who has been told to move so many times that moving has become the primary skill — not walking, not going somewhere, just moving. Relocating from one alcove to the next, from one doorway to the next, from one version of *muoviti* to the next.
 
-Enzo stepped over him.
+The waiter stepped over him.
 
-Enzo always stepped over him.
+The waiter always stepped over him.
 
-Enzo did not look at his face.
+The waiter did not look at his face.
 
 ---
 
 Six flights.
 
-Each one slower than the last. The headache was no longer assembling — it had arrived, fully built, structural, load-bearing. His knees hurt. His back hurt. His mouth tasted like the inside of Antonio's mixed with the inside of the thing from the pocket mixed with the cigarettes he didn't remember smoking but his fingers confirmed.
+Each one slower than the last. The headache was no longer assembling — it had arrived, fully built, structural, load-bearing. His knees hurt. His back hurt. His mouth tasted like the inside of the industry bar mixed with the inside of the thing from the pocket mixed with the cigarettes he didn't remember smoking but his fingers confirmed.
 
-The flat was dark. The flat was always dark because the flat faced a wall. Not a courtyard — a wall. Another building's wall. So close he could open the window and touch the brick. He'd done it once, drunk, reached out and touched the wall of the building across the narrow gap and said *hello* to it because the wall was the most consistent thing in his life. The wall was always there. The wall never went to Antonio's. The wall never partook. The wall just stood there being a wall, six inches from his window, blocking the light with the same reliable indifference that the bum in the alcove received the same *muoviti* every night.
+The flat was dark. The flat was always dark because the flat faced a wall. Not a courtyard — a wall. Another building's wall. So close he could open the window and touch the brick. He'd done it once, drunk, reached out and touched the wall of the building across the narrow gap and said *hello* to it because the wall was the most consistent thing in his life. The wall was always there. The wall never went to the industry bar. The wall never partook. The wall just stood there being a wall, six inches from his window, blocking the light with the same reliable indifference that the bum in the alcove received the same *muoviti* every night.
 
 He fell into bed. Not onto — into. The way a body falls into bed when the body has been vertical for twenty-two hours and the horizontal is not a choice but a collapse. Still in the jeans. Still in the dead-black t-shirt. Still in the trainers with the peeling soles. The shower was somewhere in the flat, six feet away, doing nothing, waiting to be used the way the wobbling chair in the waitress's kitchen waited to be fixed.
 
@@ -169,7 +169,7 @@ The headache was still there. Not the construction crew anymore — the building
 
 He didn't shower.
 
-He should have showered. He knew he should have showered the way you know you should call your mother or fix the chair or read the book on the nightstand that has been on the nightstand so long it has become the nightstand. The knowing was there. The doing was somewhere else. The doing was at Antonio's with the shift stories and the thing from the pocket and the part of the night the memory had redacted.
+He should have showered. He knew he should have showered the way you know you should call your mother or fix the chair or read the book on the nightstand that has been on the nightstand so long it has become the nightstand. The knowing was there. The doing was somewhere else. The doing was at the industry bar with the shift stories and the thing from the pocket and the part of the night the memory had redacted.
 
 He put on the white shirt. It was on the floor near the bag. Not in the bag — near the bag. The distinction mattered because in the bag meant he'd planned ahead and near the bag meant the bag had been too far from the hand when the hand dropped the shirt and the hand had made its decision and the shirt had accepted the floor.
 
@@ -189,7 +189,7 @@ The bum was gone.
 
 The alcove was empty. The sleeping bag was rolled and tucked behind the mailboxes with the care of a person who has one possession and treats it the way other people treat a house — locked, protected, returned to at the end of the day.
 
-Enzo didn't notice the sleeping bag. He didn't notice the absence. He noticed nothing in the alcove because the alcove was a thing he walked through, not a thing he saw, the way the bum was a thing he stepped over, not a person he looked at.
+The waiter didn't notice the sleeping bag. He didn't notice the absence. He noticed nothing in the alcove because the alcove was a thing he walked through, not a thing he saw, the way the bum was a thing he stepped over, not a person he looked at.
 
 He would look at him later.
 
@@ -209,7 +209,7 @@ He arrived at 10:08. Eight minutes late. Not late enough to matter but late enou
 
 Except this one hurt.
 
-Every step on the terrace sent something through his skull. Every tray was heavier than it should have been. Every smile was built from materials that had been depleted at Antonio's and were being rebuilt in real time from reserves the body kept for emergencies. The smile was emergency infrastructure.
+Every step on the terrace sent something through his skull. Every tray was heavier than it should have been. Every smile was built from materials that had been depleted at the industry bar and were being rebuilt in real time from reserves the body kept for emergencies. The smile was emergency infrastructure.
 
 He worked the terrace. The outside tables. The brick-and-borrowed-alley section where the light was soft and the tips were better. The waitress worked the inside. The bartender worked the bar. The three of them in the same diner, in the same system, in the same air — and none of them knowing that they were inside the same second, the same groove.
 
@@ -217,7 +217,7 @@ The waitress hated him.
 
 He knew this. Not personally — professionally. She hated his section the way a person hates the weather on someone else's vacation. The terrace tipped better. The terrace had the light. The terrace had the tourists who were generous because the setting made them feel European and feeling European made people tip the way Europeans think Americans tip. The inside had the locals and the locals knew the prices and the locals tipped like locals.
 
-He didn't choose the terrace. The terrace was assigned. The owner gave him the terrace because Enzo was smooth and the tourists liked smooth and the tourists were the margin and the margin was the owner's language.
+He didn't choose the terrace. The terrace was assigned. The owner gave him the terrace because The waiter was smooth and the tourists liked smooth and the tourists were the margin and the margin was the owner's language.
 
 The bartender poured his drinks first.
 
@@ -231,7 +231,7 @@ A gentleman sat at his table. Outside. Terrace. Waiting for someone.
 
 Something to drink, sir?
 
-The gentleman ordered. The gentleman was calm in the way a man is calm when the calm is sitting on top of something enormous. Enzo had seen this a thousand times. The terrace was full of men being calm on top of enormous things.
+The gentleman ordered. The gentleman was calm in the way a man is calm when the calm is sitting on top of something enormous. The waiter had seen this a thousand times. The terrace was full of men being calm on top of enormous things.
 
 Are you expecting someone?
 
@@ -239,25 +239,25 @@ The gentleman looked at him.
 
 *I am. She should be here soon. I'm going to ask her to marry me.*
 
-Enzo didn't perform the reaction. The reaction was real. The brief honest light of a man who has served a thousand tables and found this one worth pausing for. He'd seen proposals. He'd seen anniversaries. He'd seen breakups that happened between the appetizer and the main and the table still ordered dessert because the dessert had already been decided and the decision outlasted the relationship.
+The waiter didn't perform the reaction. The reaction was real. The brief honest light of a man who has served a thousand tables and found this one worth pausing for. He'd seen proposals. He'd seen anniversaries. He'd seen breakups that happened between the appetizer and the main and the table still ordered dessert because the dessert had already been decided and the decision outlasted the relationship.
 
 But this one — the way the gentleman said it, the weight of it, the way the words came out like they'd been practicing in his chest all morning — this one was real.
 
 Congratulations, sir.
 
-He meant it. The hangover meant it. The headache meant it. The dead-black t-shirt under the white shirt meant it. Everything in Enzo that was depleted and rebuilding and running on emergency infrastructure meant it because meaning it was the easiest thing he'd done all day.
+He meant it. The hangover meant it. The headache meant it. The dead-black t-shirt under the white shirt meant it. Everything in The waiter that was depleted and rebuilding and running on emergency infrastructure meant it because meaning it was the easiest thing he'd done all day.
 
 And if that gentleman on the sidewalk bothers you, please let me know.
 
-He said it. He said it because the bum was at the edge of the terrace the way the bum was at the edge of the alcove and the sidewalk and every space the bum occupied. And the gentleman agreed. And Enzo walked to the bar to place the order and the bartender was already moving and the drink came back fast and Enzo delivered it and the gentleman thanked him.
+He said it. He said it because the bum was at the edge of the terrace the way the bum was at the edge of the alcove and the sidewalk and every space the bum occupied. And the gentleman agreed. And The waiter walked to the bar to place the order and the bartender was already moving and the drink came back fast and The waiter delivered it and the gentleman thanked him.
 
 Then she arrived.
 
 ---
 
-She walked in and the gentleman's face did something Enzo had seen a thousand times and had never once felt for himself and the never-having-felt-it was a room in the flat he didn't go into, a room that faced the same wall as the window, a room he kept dark.
+She arrived and the gentleman's face did something The waiter had seen a thousand times and had never once felt for himself and the never-having-felt-it was a room in the flat he didn't go into, a room that faced the same wall as the window, a room he kept dark.
 
-He moved. Her drink order. Quick. Not to miss a beat. The beat was his job. The beat was the only thing between him and the version of himself that was at Antonio's at 3 AM partaking and stepping over a man in an alcove without looking at his face.
+He moved. Her drink order. Quick. Not to miss a beat. The beat was his job. The beat was the only thing between him and the version of himself that was at the industry bar at 3 AM partaking and stepping over a man in an alcove without looking at his face.
 
 He delivered her drink. She thanked him. And then —
 
@@ -265,7 +265,7 @@ The bum.
 
 The same bum. The same one from the alcove. The same one he stepped over every night and told to *muoviti* every night and never looked at — standing at the edge of the terrace. Asking for food. From his table. From the gentleman who was about to propose. From the one table on the terrace that held something sacred and the bum was at the edge of it the way the bum was at the edge of everything and this time — this time —
 
-Enzo stepped forward.
+The waiter stepped forward.
 
 *"Get out of here. You can't do this here."*
 
@@ -285,7 +285,7 @@ And went back to the table.
 
 The same second.
 
-The Englishman was leaning forward. The woman in the red dress was reaching for her drink. The waitress was arguing at the bar. The bartender was pouring. Luca was hugging Marco. The solitary man was reading. Pepe's car was somewhere on the street.
+The Englishman was leaning forward. The woman in the red dress was reaching for her drink. The waitress was arguing at the bar. The bartender was pouring. The loud man was hugging the thick one. The solitary man was reading. Pepe's car was somewhere on the street.
 
 And the headlights.
 
@@ -326,4 +326,4 @@ The groove holds everything.
 ---
 
 ## Liner Notes
-Track 011 is the inhabitation that connects two erasures: the waiter who tells the beggar "you can't do this here" at the diner is the same man who tells the beggar "muoviti" outside his own flat every night. He doesn't recognize him. That's the track's gut punch — not cruelty, not malice, just the specific blindness of a man whose hangover is a wall that blocks everything the way the building across the gap blocks his window. The night before is full industry: Antonio's bar, the back table, Claudia from the wine bar, Davide, Marta, Paulo, the shift stories that burn like fuel, the thing from the pocket that turns midnight into a suggestion, the night turning to day without permission. He doesn't shower. The white shirt is on the floor near the bag, not in it. The transformation at the diner is the same light switch as the waitress but this one hurts — every tray heavier, every smile emergency infrastructure. He gets the terrace because he's smooth and the tourists tip better and the bartender pours his drinks first because the terrace is the show and he didn't ask for the privilege but benefits from it. The proposal lands real on him — the brief honest light. Then the beggar at the edge of his table and the sentence comes out — the same mouth, one breath apart, congratulations to erasure. The man from the alcove. The sleeping bag behind the mailboxes. He doesn't see. The headlights go through him the same way they went through the waitress. The groove holds the waiter who erases the man he sleeps above.
+Track 011 is the inhabitation that connects two erasures: the waiter who tells the beggar "you can't do this here" at the diner is the same man who tells the beggar "muoviti" outside his own flat every night. He doesn't recognize him. That's the track's gut punch — not cruelty, not malice, just the specific blindness of a man whose hangover is a wall that blocks everything the way the building across the gap blocks his window. The night before is full industry: the industry bar bar, the back table, Claudia from the wine bar, Davide, Marta, Paulo, the shift stories that burn like fuel, the thing from the pocket that turns midnight into a suggestion, the night turning to day without permission. He doesn't shower. The white shirt is on the floor near the bag, not in it. The transformation at the diner is the same light switch as the waitress but this one hurts — every tray heavier, every smile emergency infrastructure. He gets the terrace because he's smooth and the tourists tip better and the bartender pours his drinks first because the terrace is the show and he didn't ask for the privilege but benefits from it. The proposal lands real on him — the brief honest light. Then the beggar at the edge of his table and the sentence comes out — the same mouth, one breath apart, congratulations to erasure. The man from the alcove. The sleeping bag behind the mailboxes. He doesn't see. The headlights go through him the same way they went through the waitress. The groove holds the waiter who erases the man he sleeps above.

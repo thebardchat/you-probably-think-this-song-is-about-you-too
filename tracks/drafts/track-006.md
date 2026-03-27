@@ -11,7 +11,7 @@ She wasn't there yet.
 
 That was fine. That was better than fine. That was the mercy of two minutes alone with the question before the question had someone to land on.
 
-The dial was the diner. Outside seating. The same brick. The same borrowed alley in a country that had no business being this beautiful on a Thursday. He sat. The flowers went under the table where flowers go when a man doesn't want to look like a man holding flowers even though every person in a three-block radius could see he was a man holding flowers.
+The diner. Outside seating. The same brick. The same borrowed alley in a country that had no business being this beautiful on a Thursday. He sat. The flowers went under the table where flowers go when a man doesn't want to look like a man holding flowers even though every person in a three-block radius could see he was a man holding flowers.
 
 ---
 
@@ -45,7 +45,7 @@ The waiter walked to the bar. The bartender was fast — already moving before t
 
 ---
 
-She walked in.
+She arrived.
 
 His heart stopped.
 

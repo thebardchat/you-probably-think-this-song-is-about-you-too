@@ -241,7 +241,7 @@ It has a steering wheel. It has a cupholder that rattles. It has a specific grav
 
 The detective is not feeling what other people feel.
 
-The detective is *driving* what other people feel. Taking the wheel. Running the route. Delivering the thing that needs to be delivered — the crabby patty, the pub trip that saves a man from seeing his wife with someone else, the flowers, the breath you didn't fully catch but you went in anyway.
+The detective is *driving* what other people feel. Taking the wheel. Running the route. Delivering the thing that needs to be delivered — the crabby patty, the pub trip that saves a man from seeing his wife with someone else, the flowers, the breath you didn't fully catch but you sat down anyway.
 
 The detective is a dispatcher.
 

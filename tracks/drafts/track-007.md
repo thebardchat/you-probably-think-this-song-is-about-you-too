@@ -25,7 +25,7 @@ She dealt with it.
 
 The lipstick went on the way lipstick goes on when you've done it a thousand times in front of a man who isn't watching and once — just once, the first time — in front of a mirror for a man who would never see you put it on.
 
-That's the difference. The ritual changes when the audience changes. For the man at home — Pepe, though she didn't think his name in this moment, she thought of him as the shape of a man in a doorway asking if she needed anything from the shop — for that man, the lipstick was maintenance. Part of the daily architecture of being a woman who keeps herself together because keeping yourself together is what women do in this town, in this alley, in this particular arrangement of brick and expectation.
+That's the difference. The ritual changes when the audience changes. For the man at home — she thought of him as the shape of a man in a doorway asking if she needed anything from the shop — for that man, the lipstick was maintenance. Part of the daily architecture of being a woman who keeps herself together because keeping yourself together is what women do in this town, in this alley, in this particular arrangement of brick and expectation.
 
 For the other one, the lipstick was a door she opened.
 
@@ -35,7 +35,7 @@ The dress was in the closet.
 
 Not the front of the closet. The back. Behind the winter coat that hadn't been worn since March and would provide cover until October. Red. Not bright red — the kind of red that knows what it's doing. The kind that sits in a room and doesn't announce itself until someone looks directly at it and then it's all they see.
 
-Pepe bought it.
+He bought it.
 
 That fact sat in the closet with the dress like a receipt she couldn't throw away. He'd come home from a long route — the kind that left smoke on his clothes and stories in his mouth — and handed her a bag from a shop she didn't recognize. The bag was wrong for the neighborhood. Too heavy. Too deliberate. The kind of bag that says *I thought about you while I was somewhere else and this is the proof*.
 
@@ -151,7 +151,7 @@ She could hear it from the table — the sharp, specific frustration of a woman 
 
 She listened.
 
-She understood the waitress in a way the Englishman never would. Not because women understand women — that's too simple, too much of a brochure. Because she knew what it was to have your survival depend on the timing of someone else's hands. The bartender's hands. Pepe's hands on the steering wheel. The Englishman's hands — reaching across the table now, finding hers, his fingers landing on her fingers the way fingers land when the body already knows what the brain is still debating.
+She understood the waitress in a way the Englishman never would. Not because women understand women — that's too simple, too much of a brochure. Because she knew what it was to have your survival depend on the timing of someone else's hands. The bartender's hands. Her husband's hands on the steering wheel. The Englishman's hands — reaching across the table now, finding hers, his fingers landing on her fingers the way fingers land when the body already knows what the brain is still debating.
 
 ---
 

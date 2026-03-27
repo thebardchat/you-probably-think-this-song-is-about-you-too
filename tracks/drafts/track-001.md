@@ -103,8 +103,6 @@ The house is ahead. The lights are on. The greeting is coming. Sometimes the gre
 
 The detective pulls in. The engine ticks. The cupholder rattles one last time.
 
-Knock knock.
-
 ---
 
 ## Liner Notes

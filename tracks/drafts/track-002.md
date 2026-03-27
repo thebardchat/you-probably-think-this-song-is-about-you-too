@@ -84,8 +84,6 @@ Then the driver looked at the detective and said:
 
 *"She's lovely. She's so lovely. Her long, brown, curly hair. And the way she loves food—it's the sign of such a woman. A woman in touch with everything. And she loves the way I cook. I cook it. She loves it."*
 
-Brown curly hair. Green eyes. Red dress.
-
 The detective arrived at his destination. The driver got out. They embraced again.
 
 His name was Pepe.
