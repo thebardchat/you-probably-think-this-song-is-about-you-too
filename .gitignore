@@ -1,0 +1,22 @@
+# Audio files — too large for git
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+
+# Publishing formats
+*.epub
+*.pdf
+
+# TTS intermediates
+*-tts.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
