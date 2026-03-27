@@ -197,7 +197,7 @@ She just knew the lipstick was right. The dress was right. The twelve minutes we
 
 And the Englishman was leaning forward.
 
-And the waiter was shewing the beggar.
+And the waiter was shooing the beggar.
 
 And the waitress was fighting for her rent.
 

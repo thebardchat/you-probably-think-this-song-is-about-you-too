@@ -38,8 +38,8 @@ At the bar, the waitress argued with the bartender because the bartender got a d
 **The Solitary Man.**
 Another table. Alone. Reading. Not lonely—present. Content without needing the room to validate him. He'd built a world small enough to fit on the pages of that book, and it was enough. He didn't perform for the diner. He didn't need the couple's intimacy or fear the waiter's cruelty. He was just there. Fully there.
 
-**The Uber Arrival.**
-An Uber pulled up. Out got a gentleman. Grateful, alive, calling out names like he owned the place. Hugs all around. A tribe assembled in seconds. His energy tried to fill the whole room. But the room didn't get smaller. It just got fuller.
+**The Arrival.**
+A ride-share pulled up. Out got a gentleman. Grateful, alive, calling out names like he owned the place. Hugs all around. A tribe assembled in seconds. His energy tried to fill the whole room. But the room didn't get smaller. It just got fuller.
 
 **The Four Screens.**
 Two couples. One table. Four little screens. Food in front of them going cold, but it didn't matter. What mattered was the next fifteen-to-thirty-second clip. *Oh, look at this. Oh, look at that.* The dryness of it. The loneliness of it. The togetherness of it. All of them—alone together, feeding each other content instead of food.
@@ -147,8 +147,6 @@ Total black. The detective dropped into a room with no walls, no floor, no light
 *After hearing that your woman might be speaking out on you.*
 
 *You said to her. Me?*
-
-*What I loan to be anywhere else puts back in with you.*
 
 *If I had known.*
 

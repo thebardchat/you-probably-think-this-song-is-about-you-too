@@ -211,7 +211,7 @@ Except this one hurt.
 
 Every step on the terrace sent something through his skull. Every tray was heavier than it should have been. Every smile was built from materials that had been depleted at Antonio's and were being rebuilt in real time from reserves the body kept for emergencies. The smile was emergency infrastructure.
 
-He worked the terrace. The outside tables. The brick-and-borrowed-alley section where the light was soft and the tips were better. The waitress worked the inside. The bartender worked the bar. The three of them in the same diner, in the same system, in the same air — and none of them knowing that they were inside the same second, the same groove, the same album track.
+He worked the terrace. The outside tables. The brick-and-borrowed-alley section where the light was soft and the tips were better. The waitress worked the inside. The bartender worked the bar. The three of them in the same diner, in the same system, in the same air — and none of them knowing that they were inside the same second, the same groove.
 
 The waitress hated him.
 

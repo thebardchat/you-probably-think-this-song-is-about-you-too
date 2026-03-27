@@ -211,13 +211,13 @@ None of anything had happened.
 
 ---
 
-The beggar was standing at the edge of the sidewalk. The food was in his hands. Pepe's car was winding slowly down the street, smoke trailing, not yet arrived, not yet seeing, not yet broken. The Englishman was leaning forward. The woman in the red dress was reaching for her drink. The waiter was stepping toward the beggar with the sentence forming in his mouth. The waitress was arguing. The bartender was pouring. The man was reading. The Uber gentleman was hugging.
+The beggar was standing at the edge of the sidewalk. The food was in his hands. Pepe's car was winding slowly down the street, smoke trailing, not yet arrived, not yet seeing, not yet broken. The Englishman was leaning forward. The woman in the red dress was reaching for her drink. The waiter was stepping toward the beggar with the sentence forming in his mouth. The waitress was arguing. The bartender was pouring. The man was reading. The loud gentleman was hugging.
 
 None of it had happened.
 
 All of it had happened.
 
-Every person at the diner lived a second that didn't happen. The Englishman proposed in a second that didn't happen. The woman was loved in a second that didn't happen. Pepe's heart broke in a second that didn't happen. The beggar was erased in a second that didn't happen. The beggar was hit in a second that didn't happen. The beggar welcomed peace in a second that didn't happen. The family in the alley lost everything in a second that didn't happen. The waitress lost her rent in a second that didn't happen. The bartender made his choice in a second that didn't happen. The solitary man turned his page in a second that didn't happen. The Uber man found his tribe in a second that didn't happen.
+Every person at the diner lived a second that didn't happen. The Englishman proposed in a second that didn't happen. The woman was loved in a second that didn't happen. Pepe's heart broke in a second that didn't happen. The beggar was erased in a second that didn't happen. The beggar was hit in a second that didn't happen. The beggar welcomed peace in a second that didn't happen. The family in the alley lost everything in a second that didn't happen. The waitress lost her rent in a second that didn't happen. The bartender made his choice in a second that didn't happen. The solitary man turned his page in a second that didn't happen. The loud man found his tribe in a second that didn't happen. The four screens kept glowing in a second that didn't happen.
 
 Each person lives a second they don't live.
 

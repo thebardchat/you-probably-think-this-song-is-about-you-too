@@ -139,7 +139,7 @@ The waitress was good at this.
 
 The waitress was very good at this.
 
-The woman in the apartment was good at nothing. The woman in the apartment was a container for Gerald's schedule and the bus's approximate arrival and the wobbling chair she'd never fix. But the waitress — the waitress was a machine. A performer. The kind of armor the doctor in Volume One would recognize: *sophisticated, also armor, the armor has good taste.*
+The woman in the apartment was good at nothing. The woman in the apartment was a container for Gerald's schedule and the bus's approximate arrival and the wobbling chair she'd never fix. But the waitress — the waitress was a machine. A performer. The kind of armor the doctor would recognize: *sophisticated, also armor, the armor has good taste.*
 
 ---
 

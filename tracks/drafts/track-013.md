@@ -225,7 +225,7 @@ Inside the stapler was another stapler.
 
 Inside that one was the diner.
 
-Inside the diner was the couple with the bread crust, still finding each other, still performing the world's oldest scene without the script, completely unaware that they were currently located inside a stapler inside a stapler inside a dreamworld inside a detective inside a story that a man was recording while walking and driving and buying things at CVS.
+Inside the diner was the couple with the bread crust, still finding each other, still performing the world's oldest scene without the script, completely unaware that they were currently located inside a stapler inside a stapler inside a dreamworld inside a detective inside a story that a man was recording while walking and driving and standing in line at a register that thanked him for shopping.
 
 The nesting is the point.
 

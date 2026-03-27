@@ -23,7 +23,7 @@ The geese are out. This time of year they're always out — the pond he's never 
 
 The dogwoods are doing their ten-day thing. White. Pink. Colors that don't have names because they only exist for a week and a half. Three hundred and fifty-five days a year that tree is the ugliest thing on the block. Bare arms. No charm. Then spring cracks through and suddenly it's the prettiest girl at the dance, and everybody forgets. The detective doesn't forget. He just drives past and nods.
 
-They stink, though. The Bradford pears. That smell that you can't spell. Not yuck. Something before yuck. Something the mouth does that isn't a word. EGGUGH. The detective makes the sound in his truck and nobody hears it and that's fine.
+They stink, though. The Bradford pears. That smell that you can't spell. Not yuck. Something before yuck. Something the mouth does that isn't a word. The detective makes the sound in his truck and nobody hears it and that's fine.
 
 ---
 
@@ -33,7 +33,7 @@ Some trees lose their bark in winter and go white underneath like they're showin
 
 ---
 
-Blackberry winter. That's what the old-timers call it — the last cold snap before spring commits. The farmers used it as an excuse not to plant. The procrastinators used the procrastinators as an excuse not to plant. There's a hedgehog involved somewhere in the mythology. He's not looking it up. Some things are better as half-remembered warnings from somebody's grandfather.
+Blackberry winter. That's what the old-timers call it — the last cold snap before spring commits. The farmers used it as an excuse not to plant. The procrastinators used it as an excuse to be just that. There's a hedgehog involved somewhere in the mythology. He's not looking it up. Some things are better as half-remembered warnings from somebody's grandfather.
 
 It snowed today. Not the kind that sticks. The kind that falls pretty and reminds you that the sky still has opinions. Thirty-two last night. Thirty-eight right now. The front that dropped it here is dumping three feet on somebody up north. Same system. Different verdict. Down here it's wind. The kind you feel in the truck, the kind that pushes the clouds into shapes — one of them looks like that one-eyed creature from the cartoon, the Hawaiian one, the little experiment that wouldn't get blown up because of mosquitoes. The rest of the sky is pitch. One bright blue hole. Storm and Norman.
 

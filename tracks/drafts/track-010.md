@@ -37,9 +37,9 @@ Not sound — *volume*. The sheer physical density of being inside a man who tak
 
 The second thing he felt was joy.
 
-Unreasonable joy. The kind that doesn't check with the brain before arriving. The kind that lives in the legs, in the balls of the feet, in the specific way this body moved toward the ground when the Uber door opened — landing, always landing, the way a man lands who has spent his whole life knowing exactly where the ground is.
+Unreasonable joy. The kind that doesn't check with the brain before arriving. The kind that lives in the legs, in the balls of the feet, in the specific way this body moved toward the ground when the ride-share door opened — landing, always landing, the way a man lands who has spent his whole life knowing exactly where the ground is.
 
-The Uber door was open. The street was there. The diner was there. And the body — this enormous, joyful, impossibly alive body — was already moving.
+The ride-share door was open. The street was there. The diner was there. And the body — this enormous, joyful, impossibly alive body — was already moving.
 
 ---
 
@@ -51,7 +51,7 @@ Marco Ferretti. Napoli born, Napoli raised, Napoli until the bones give out. Thi
 
 *"Lucaaaaaa!"*
 
-Marco screamed it. The whole diner heard it. The whole street heard it. Luca. That was the name. That was this body's name. Luca Delvecchio. And Marco was screaming it the way you scream the name of a man who walked off a pitch at San Siro and never came back and you thought maybe the world took him and here he is getting out of an Uber on a Thursday like he just went to get cigarettes.
+Marco screamed it. The whole diner heard it. The whole street heard it. Luca. That was the name. That was this body's name. Luca Delvecchio. And Marco was screaming it the way you scream the name of a man who walked off a pitch at San Siro and never came back and you thought maybe the world took him and here he is getting out of a ride-share on a Thursday like he just went to get cigarettes.
 
 The hug happened before the sidewalk ended.
 

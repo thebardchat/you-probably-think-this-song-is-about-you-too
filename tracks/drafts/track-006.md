@@ -83,7 +83,7 @@ One sentence. The warmth left the sidewalk like someone opened a window in Janua
 
 At that second — that exact second — the man arrived.
 
-The Uber gentleman. Grateful, alive, calling out names. His mates were sitting right there, right beside the Englishman and the woman, and the tribe assembled in the time it takes to say a name loud enough for the whole diner to hear it. Hugs. Noise. The energy that fills a room without shrinking it.
+The gentleman from the ride-share. Grateful, alive, calling out names. His mates were sitting right there, right beside the Englishman and the woman, and the tribe assembled in the time it takes to say a name loud enough for the whole diner to hear it. Hugs. Noise. The energy that fills a room without shrinking it.
 
 While the waitress argued with the bartender.
 
@@ -105,7 +105,7 @@ As quick as it happened. As if he never left. The moving picture of everything t
 
 He was up again.
 
-The crane. The pull. The diner shrinking below him like a music box someone opened and all the figures were turning at once — the waiter stepping toward the beggar, the waitress shouting at the bartender, the Uber man hugging his mates, the solitary man turning a page, the woman reaching for her drink, the Englishman with the flowers still under the table and the question still in his chest and the heart still remembering how to beat again —
+The crane. The pull. The diner shrinking below him like a music box someone opened and all the figures were turning at once — the waiter stepping toward the beggar, the waitress shouting at the bartender, the loud man hugging his mates, the solitary man turning a page, the woman reaching for her drink, the Englishman with the flowers still under the table and the question still in his chest and the heart still remembering how to beat again —
 
 All of it.
 
@@ -121,7 +121,7 @@ Seven people in a frame. Seven lives crossing the same square footage of borrowe
 
 Except him.
 
-Except the detective, who was all of them and none of them, who was the Englishman with the ring and the waiter with the smile and the beggar with the asking and the bartender with the speed and the waitress with the argument and the Uber man with the entrance and the solitary man with the book —
+Except the detective, who was all of them and none of them, who was the Englishman with the ring and the waiter with the smile and the beggar with the asking and the bartender with the speed and the waitress with the argument and the loud man with the entrance and the solitary man with the book —
 
 Who was floating above it now, watching the second stretch into forever, watching the music box turn, watching seven billion films play on one screen at one table on one street in one second that held, somehow, everything.
 

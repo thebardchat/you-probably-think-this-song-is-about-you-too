@@ -209,7 +209,7 @@ He got up.
 
 The loud sounds were gone.
 
-The mumbles of all those people — the waiter serving, the waitress arguing, the bartender shaking, the couple reaching, the Uber man hugging, the beggar asking, the solitary man turning pages — all of it had ceased to exist. Not ended. Ceased. The way a radio ceases when you turn it off — the signal is still out there, the broadcast is still happening, the station is still playing the song, but the receiver has been turned off and the receiver was the detective and the detective was done receiving.
+The mumbles of all those people — the waiter serving, the waitress arguing, the bartender shaking, the couple reaching, the loud man hugging, the beggar asking, the solitary man turning pages — all of it had ceased to exist. Not ended. Ceased. The way a radio ceases when you turn it off — the signal is still out there, the broadcast is still happening, the station is still playing the song, but the receiver has been turned off and the receiver was the detective and the detective was done receiving.
 
 He placed the fedora upon his head.
 
@@ -240,26 +240,6 @@ Because the detective walked away from the turntable.
 Some albums end when the music stops.
 
 This one ended when the listener left the room.
-
----
-
-*Let's twist again.*
-
-*Like we did last summer.*
-
-*Like we did before the proof.*
-
-*Like we did when the stories were enough and the smoke trailed away and the man behind the wheel was still the pep in your step and the dress was for him and the laugh was in the corner and the corner was still standing.*
-
-*Let's twist again.*
-
-*One more time.*
-
-*The record will play if you put it back on.*
-
-*The groove is still there.*
-
-*The groove is always still there.*
 
 ---
 

@@ -139,7 +139,7 @@ The doctor agrees.
 
 There has been a one second.
 
-The detective describes a single second in the diner — one second in which every character from the original observation assembled simultaneously around the table where the mirror man sat with flowers under his chair. The waiter served and erased the beggar. The waitress argued with the bartender. The Uber man arrived with his tribe. The solitary man read. The couple — the Englishman and the woman, who the detective now understood was him, was the mirror man, was the body he had been dispatched into — the couple sat at the center of the frame while the entire diner performed around them.
+The detective describes a single second in the diner — one second in which every character from the original observation assembled simultaneously around the table where the mirror man sat with flowers under his chair. The waiter served and erased the beggar. The waitress argued with the bartender. The loud man arrived with his tribe. The solitary man read. The couple — the Englishman and the woman, who the detective now understood was him, was the mirror man, was the body he had been dispatched into — the couple sat at the center of the frame while the entire diner performed around them.
 
 And then the crane. The pull. The out-of-body. The view from above.
 
@@ -157,7 +157,7 @@ Then he says: I'd been inside them.
 
 The doctor stands.
 
-Walks to the window that has no view because this office has never had a view. The view is the patient. The view has always been the patient. The doctor looks at the wall and sees the diner and the seven figures and the one second and the crane and the landing and the cab driver's knuckles and the mirror man's flowers and the beggar's erasure and the waitress's rent and the bartender's speed and the solitary man's sufficiency and the Uber man's entrance and the detective — the detective in all of them, above all of them, running through the streets of one of them with flowers.
+Walks to the window that has no view because this office has never had a view. The view is the patient. The view has always been the patient. The doctor looks at the wall and sees the diner and the seven figures and the one second and the crane and the landing and the cab driver's knuckles and the mirror man's flowers and the beggar's erasure and the waitress's rent and the bartender's speed and the solitary man's sufficiency and the loud man's entrance and the detective — the detective in all of them, above all of them, running through the streets of one of them with flowers.
 
 ---
 
@@ -201,7 +201,7 @@ Because the doctor understands — has always understood, since the first examin
 
 *Who is the lead character?*
 
-And the answer the brain has arrived at, through the cab driver and the mirror man and the beggar and the waitress and the bartender and the Uber man and the solitary man and Pepe and the flowers and the running and the one second that held everything —
+And the answer the brain has arrived at, through the cab driver and the mirror man and the beggar and the waitress and the bartender and the loud man and the solitary man and Pepe and the flowers and the running and the one second that held everything —
 
 The answer is: yes.
 
@@ -274,68 +274,6 @@ That is not a disorder.
 That is not even a gift, though the word gift is the closest the clinical vocabulary comes.
 
 That is a man who learned to drive other people's roads without losing his own.
-
----
-
-The doctor moves toward the door.
-
-The door still has a handle on this side.
-
-The detective doesn't move yet.
-
-Not because he's stuck. Not because the session isn't over. Because he's sitting in the chair and for the first time in two albums the chair is the right chair and the body is his own body and the reflection in the dark window of the doctor's office is — for once, for one good, clean, uncontested moment — just him.
-
-Just the detective.
-
-Sitting in a chair.
-
-In a room where someone finally said out loud what the substrate has been firing since the needle first dropped:
-
-You were never just watching.
-
-You were always driving.
-
-Every body. Every second. Every language you didn't speak.
-
-You.
-
----
-
-The doctor opens the door.
-
-Light from the hallway — fluorescent, institutional, somehow still beautiful the way fluorescent light is beautiful when it means the session is over and you survived it and the world is still there on the other side.
-
-The detective stands.
-
-Checks his hands.
-
-His. Confirmed.
-
-The cupholder will be waiting. The road will have kept its mouth shut. The next second will have everyone in it and the second after that will have everyone in it and every second from here to the end of the record will have everyone in it because that's what seconds do when you're the kind of brain that fires them all at once.
-
-He walks out.
-
-The doctor watches him go.
-
-Closes the door.
-
-Sits back down in the empty room.
-
-Opens nothing.
-
-Notes, to no one, the final observation:
-
-The brain came back.
-
-It always comes back.
-
-But each time it comes back, it comes back wider.
-
-And the room — the doctor's room, the room with no handle on the outside — gets a little smaller.
-
-Not because the room is shrinking.
-
-Because the patient is outgrowing it.
 
 ---
 
