@@ -7,12 +7,12 @@ Governed by the [TheShaneBrain Constitution](https://github.com/thebardchat/cons
 
 ## What This Is
 
-Volume Two. The album after the movie. The detective didn't retire — he kept driving. But now he's not just watching. He's *inhabiting*. Ripped out of his own body, dropped into the bodies of strangers at a European diner, living one second over and over from seven different perspectives, trying to change a tragic outcome he can never change. All of it happening on a therapist's couch. All of it leading to an alley. All of it leading to Pepe.
+Volume Two. The album after the movie. The detective didn't retire — he kept driving. But now he's not just watching. He's *inhabiting*. Ripped out of his own body, dropped into the bodies of strangers at a European diner, living one second over and over from nine different perspectives, trying to change a tragic outcome he can never change. All of it happening on a therapist's couch — though the reader doesn't know that until the Bonus Track. All of it leading to an alley. All of it leading to Pepe.
 
 **This is not a sequel. This is the second side of the same record.**
 
 - Volume One: "You Probably Think This Book Is About You" — 22 scenes, ~12,800 words, complete first draft, audiobook recorded (78 min)
-- Volume Two: "You Probably Think This Song Is About You Too" — 18 tracks (17 + hidden), ~43,000+ words, all Demo status, audiobook draft recorded (4h 21m)
+- Volume Two: "You Probably Think This Song Is About You Too" — 8 tracks (7 + hidden), restructured from 18, all Demo status
 - Repo: `thebardchat/you-probably-think-this-song-is-about-you-too` (PRIVATE)
 - Volume One repo: `thebardchat/you-probably-think-this-book-is-about-you` (PRIVATE)
 - Public process repo: `thebardchat/noir-detective-writing-process` (PUBLIC — NO manuscript content)
@@ -43,7 +43,7 @@ The detective exists in a multidimensional realm. He is pulled out of his own re
 3. **No lectures. No sermons. No judging.** The detective drives through the world and notices. He does not explain, preach, or moralize.
 4. **Humor is dry**, placed where the reader doesn't expect it. Self-aware without being self-conscious.
 5. **Callbacks land as echoes**, not repetition. Same image in multiple tracks but with different weight. Same cupholder rattle but it means something different because the detective is different.
-6. **No names.** The detective is never named. NO character is named. Characters are described by what they do or how they appear: the waiter, the bartender, the loud man, the thick one, the quiet one, the wet-eyed one, the Brazilian, the solitary man, the beggar, the Englishman, the woman in the red dress, the wine bar woman, the cook. ONLY TWO NAMES EXIST IN THE ENTIRE ALBUM: **Pepe** (twice — introduction in Track 002 and the gut punch in Track 007) and **Gerald** (the cat — mundanely funny, earned it). Every other name was cut. The detective's world has roles, not names. This is the rule. Do not break it.
+6. **No names.** The detective is never named. NO character is named. Characters are described by what they do or how they appear: the waiter, the bartender, the loud man, the thick one, the quiet one, the wet-eyed one, the Brazilian, the solitary man, the beggar, the Englishman, the woman in the red dress. ONLY TWO NAMES EXIST IN THE ENTIRE ALBUM: **Pepe** (introduction in Track 002 and the gut punch) and **Gerald** (the cat — mundanely funny, earned it). Every other name was cut. The detective's world has roles, not names. This is the rule. Do not break it.
 7. **Shape Shane's voice, don't reimagine it.** The shaped version = what Shane was thinking. Polish and connect, don't invent. The roughness IS the texture. Shane's raw voice in a tuxedo — same person, different clothes.
 
 ### Content Rules
@@ -56,7 +56,8 @@ The detective exists in a multidimensional realm. He is pulled out of his own re
 14. **He is everyone and no one.** Never reveal the detective. Never break the mystery. The inhabitations are the character. The detective is all of them and none of them. That's not a riddle. That's the whole album.
 
 ### Structural Rules
-15. **Tracks, not scenes.** This is an album. Tracks play, skip, scratch, repeat. The needle drops.
+15. **The therapy frame.** The entire album takes place inside a therapy office. The detective is on a couch. Everything else is internal — constructed in his mind during the session. Never name the office, the couch, or the doctor until the Bonus Track reveal. Float-up sections between inhabitations always read: "And he was floating. Back. The water stain above him. The room breathing. A stillness across from him. Something holding him. Real and present and the only thing that was ever actually happening. Then down again."
+16. **Tracks, not scenes.** This is an album. Tracks play, skip, scratch, repeat. The needle drops.
 16. **Track 000 exists.** The silence before the sound. The needle in the groove before the music.
 17. **The B-Side is not labeled.** The flip happens at Track 003. No announcement. The reader crosses without being told.
 18. **The hidden track plays after silence.** No number. No title in the manifest. It just starts. Like old CDs.
@@ -82,34 +83,45 @@ The detective exists in a multidimensional realm. He is pulled out of his own re
 ## The Album Structure
 
 ```
-TRACK 000 — The Groove (the needle before the sound)
+THE THERAPY FRAME — The entire album takes place inside a therapy office.
+  The detective is on a couch. Everything else is internal — constructed in his mind.
+  Never named until the Bonus Track reveal.
 
-SIDE A — Observation
+TRACK 000 — The Groove (the needle before the sound, the chair, the silence)
+
+SIDE A — Observation + Inhabitation
   Track 000: The Groove
   Sidetrack: Interlude — "you got sidetracked"
-  Track 001: The Commute — full drive home, feeding the house, the greeting
-  Track 002: The Diner — the simultaneous seven, Pepe, Ireland, the rescue, out-of-body
+  Track 001: The Commute — driving toward something unnamed, observation, spring
+  Track 002: The Diner — the simultaneous seven, Pepe, Ireland, NINE INHABITATIONS:
+    1. The Solitary Man — maps the diner, fullness of needing nothing
+    2. Pepe (Cab Driver) — drives the Englishman to the diner, sees his wife
+    3. The Bartender — mother's limoncello, the pour, the show
+    4. The Englishman — flowers under table, "I'm going to ask her to marry me"
+    5. The Loud Man/Footballer — FRATELLO!, the tribe, the plaque
+    6. The Waitress — Gerald the cat, 6:14 alarm, eight euros
+    7. The Waiter — hangover, congratulations to erasure
+    8. The Woman in Red Dress — lipstick behind drawer, twelve-minute walk
+    9. The Beggar — invisible, hungry, "Pep. Pep. Pepe."
+    THE GUT PUNCH — Pepe drove the Englishman, sees his wife, impact
+    THE DARK ROOM — half prayer, half eulogy (moved to after gut punch)
+
+  Float-up sections between each inhabitation:
+    "And he was floating. Back. The water stain above him. The room breathing.
+     A stillness across from him. Something holding him. Real and present and
+     the only thing that was ever actually happening. Then down again."
 
 SIDE_A // END_OF_PLAYBACK
 
   [THE FLIP — unmarked]
 
-SIDE B — Inhabitation
-  Track 003: The Landing — the flip, cab driver (Hindi), "half finished"
-  Track 004: Substrate Firing — the solitary man, the dream, pack-pack-pack
-  Track 005: The Wrong Reflection — mirror man, north of England, the proposal
-  Track 006: One Second — the proposal from inside, all seven reassemble, eternity
-  Track 007: Lipstick and Red Dress — Pepe's wife, the other side, twelve minutes
-  Track 008: The Asking — the beggar, violent ejection, hunger, "none of it happened"
-  Track 009: The Tip — the waitress, Gerald the cat, 6:14 alarm, eight euros
-  Track 010: The Entrance — Luca Delvecchio, the tribe, AC Milan, the weight of being loved
-  Track 011: The Shift — the waiter (Enzo), the hangover, Antonio's bar, muoviti
-  Track 012: The Pour — the bartender (Sandro), the bottle flip, mother's limoncello, Tokyo
-  Track 013: The Third Thing — THE DREAM, banana phone, love all the way down
-  Track 014: The Twist — THE REVEAL: Pepe hired the detective, the crash, the fedora
+SIDE B — Landing + Substrate
+  Track 003: The Landing — THE FLIP, collision in slow motion, "none of it happened"
+  Track 004: Substrate Firing — the solitary man (deeper), the dream, pack-pack-pack
 
 BONUS TRACK
-  Track -0321: Dr. Seen Returns — substrate empathy, the dispatcher, the brain was never just one brain
+  Track -0321: Dr. Seen Returns — substrate empathy, the dispatcher,
+    the therapy frame REVEALED: the calm place was the doctor's office
 
 SILENCE
 
@@ -117,6 +129,11 @@ THE HIDDEN TRACK — [no number, no title]
   The detective inside Dr. Seen → sees himself on couch → snaps back → noir alley →
   brings food to Pepe → Pep Pep Pep Pepe → the case continues →
   "It's never too late to be Seen" → crisis numbers
+
+ARCHIVED (content absorbed into Track 002):
+  Tracks 005-012 — cut, inhabitation content moved into Track 002
+  Track 013 (The Third Thing) — saved as bonus material
+  Track 014 (The Twist) — saved as bonus material
 ```
 
 ---
@@ -152,20 +169,18 @@ THE HIDDEN TRACK — [no number, no title]
 
 ## The Calm Place — Breadcrumb Progression
 
-The calm place = Dr. Seen's office. It builds through the album:
+The calm place = Dr. Seen's office. The therapy frame is never named until the Bonus Track.
+
+**Float-up section (identical between every inhabitation in Track 002):**
+"And he was floating. Back. The water stain above him. The room breathing. A stillness across from him. Something holding him. Real and present and the only thing that was ever actually happening. Then down again."
 
 | Track | Breadcrumb | Intensity |
 |-------|-----------|-----------|
-| 002 | "Old leather, maybe. Something underneath the altitude" | Whisper |
-| 003 | "strangely calm, like a room you've been in before but can't place" | A feeling |
-| 006 | "leather, graphite, something clinical... familiar things have addresses" | Growing |
-| 008a | "Leather. Something sharp like pencil lead. A stillness that was watching." | Named |
-| 008b | "A ceiling above the above, stain shaped like a country nobody named" | Water stain appears |
-| 010 | "The sense of a chair. The weight of being watched by someone in no hurry" | The chair. The eyes. |
-| 011 | "The water stain on a ceiling that wasn't the sky. He blinked and it was gone." | Flash |
-| 012 | "Around him now. The eyes. He almost turned around." | Almost broke through |
-| 013 | "Not the sky, a ceiling. The water stain. Someone sitting very still, waiting." | Full — he's IN it |
-| -0321 | Doctor notes the leather, the graphite. Does not comment on his own ceiling. | The doctor knows. |
+| 002 (float-ups) | Water stain, room breathing, stillness, something holding him | Constant — the reader absorbs it through repetition |
+| 002 (out-of-body) | "Old leather, maybe. Something underneath the altitude" | Whisper |
+| 003 | Float-up section after collision | Consistent |
+| 004 | Substrate firing — the dream, pressing to remember | The gap |
+| -0321 | Doctor notes the leather, the graphite. Does not comment on his own ceiling. Therapy frame REVEALED. | The doctor knows. |
 | Hidden | He's in the chair. He sees himself on the couch. | Reveal. |
 
 ---
@@ -263,24 +278,15 @@ When the detective thinks in another language, he's REALLY inside someone else:
 | 000 | The Groove | Demo | A |
 | Sidetrack | (interlude) | Demo | A |
 | 001 | The Commute | Demo | A |
-| 002 | The Diner | Demo | A |
+| 002 | The Diner (9 inhabitations + gut punch) | Demo | A |
 | 003 | The Landing | Demo | FLIP |
 | 004 | Substrate Firing | Demo | B |
-| 005 | The Wrong Reflection | Demo | B |
-| 006 | One Second | Demo | B |
-| 007 | Lipstick and Red Dress | Demo | B |
-| 008 | The Asking | Demo | B |
-| 009 | The Tip | Demo | B |
-| 010 | The Entrance | Demo | B |
-| 011 | The Shift | Demo | B |
-| 012 | The Pour | Demo | B |
-| 013 | The Third Thing | Demo | B |
-| 014 | The Twist | Demo | B |
-| -0321 | Dr. Seen Returns | Demo | Bonus |
+| -0321 | Dr. Seen Returns (therapy frame revealed) | Demo | Bonus |
 | ??? | [Hidden] | Demo | Hidden |
 
-**Total: 18 tracks, ~43,000+ words, all Demo status**
-**Draft-001.mp3 generated: 4 hours 21 minutes (Piper TTS)**
+**Active: 8 tracks (7 + hidden), all Demo status**
+**Archived: Tracks 005-014 (content absorbed into Track 002)**
+**Bonus material: Tracks 013, 014 (saved in tracks/bonus-material/)**
 
 ---
 
@@ -292,17 +298,18 @@ raw-voice/                   — unedited voice-to-text dumps from Shane
   dump-001-drive-home-march16.md
   dump-002-diner-inhabitation-march20.md
   dump-003-part-two-vision-march26.md
-tracks/drafts/               — all track files
-  track-000.md through track-014.md
+tracks/drafts/               — active track files
+  track-000.md, track-001.md, track-002.md, track-003.md, track-004.md
   track-0321.md (bonus)
   track-hidden.md
 tracks/interludes/
   sidetrack.md
+tracks/archived/             — cut tracks (005-014), content absorbed into Track 002
+tracks/bonus-material/       — saved bonus material (013 The Third Thing, 014 The Twist)
 compiled/
-  draft-001.md               — full assembled manuscript (~43,000 words)
-  draft-001.mp3              — Piper TTS audiobook (4h21m, gitignored)
-  draft-001.wav              — source audio (661MB, gitignored)
-  draft-001-tts.txt          — TTS-cleaned text (gitignored)
+  draft-001.md               — original full manuscript (~43,000 words)
+  draft-002.md               — second compiled draft
+  draft-003.md               — restructured draft (therapy frame, condensed)
 docs/
   MANIFEST.md                — track index with status, themes, connections
   TRACK_TEMPLATE.md          — blank template

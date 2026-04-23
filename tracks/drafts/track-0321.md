@@ -285,5 +285,21 @@ That is a man who learned to drive other people's roads without losing his own.
 
 ---
 
+There is one more thing the doctor does not say.
+
+The doctor does not say: I have been there. Every time you went up. Every time you floated between bodies. Every time the water stain appeared on a ceiling you couldn't place and the leather was underneath you and the graphite was in the air and something was holding you — real and present and the only thing that was ever actually happening.
+
+That was this room.
+
+That was this ceiling. This water stain. This chair across from you. This stillness.
+
+The doctor was the stillness across from him the whole time. The calm place was not a metaphor. The calm place was a room with a water stain on the ceiling shaped like a country nobody named and a man in a chair who gives you two words at the door and waits.
+
+The doctor does not say this because saying it would be the opposite of what the room does. The room holds. The room has always held. The room will hold again next Wednesday.
+
+*We sit with it.*
+
+---
+
 ## Liner Notes
-Track -0321 is the album's hidden spine — Dr. Seen returns. In Volume One, Scene 018 was the center that held everything together: the first examination, the brain mapped in its rooms (builder, protector, wound, faith, performer, father, visionary, narrator). Every scene before it built toward the doctor's office. Every scene after answered to it. Track -0321 does the same for Volume Two, but the examination is different because the patient is different. The detective has been through the inhabitations now — the cab driver, the substrate firing, the wrong reflection, the proposal, the one-second eternity — and Dr. Seen has to assess a brain that has learned to run other people's electrical impulses at the substrate level. The key findings: substrate empathy (not inferring, not resonating, but RUNNING other people's experience), the narrator evolving from watching to being, and the central reframe — the detective is a dispatcher. Not of trucks. Of himself. Into bodies. For seconds. The "we note this, we move on" cadence from Volume One returns but breaks at the end: "we do not move on, we sit with it." The brain is outgrowing the doctor's room. That's the finding the doctor hesitates to deliver. The track number -0321 places it outside the sequence — a bonus, a surprise, a scene that exists between the chaos the way Scene 014 existed in the gap. The doctor never diagnoses. The brain was never just one brain.
+Track -0321 is the album's hidden spine — Dr. Seen returns. In Volume One, Scene 018 was the center that held everything together: the first examination, the brain mapped in its rooms (builder, protector, wound, faith, performer, father, visionary, narrator). Every scene before it built toward the doctor's office. Every scene after answered to it. Track -0321 does the same for Volume Two, but the examination is different because the patient is different. The detective has been through the inhabitations now — the cab driver, the substrate firing, the wrong reflection, the proposal, the one-second eternity — and Dr. Seen has to assess a brain that has learned to run other people's electrical impulses at the substrate level. The key findings: substrate empathy (not inferring, not resonating, but RUNNING other people's experience), the narrator evolving from watching to being, and the central reframe — the detective is a dispatcher. Not of trucks. Of himself. Into bodies. For seconds. The "we note this, we move on" cadence from Volume One returns but breaks at the end: "we do not move on, we sit with it." The brain is outgrowing the doctor's room. That's the finding the doctor hesitates to deliver. The track number -0321 places it outside the sequence — a bonus, a surprise, a scene that exists between the chaos the way Scene 014 existed in the gap. The doctor never diagnoses. The brain was never just one brain. And the therapy frame is finally revealed: the calm place — the water stain, the leather, the stillness — was the doctor's office the whole time. Every float-up was the detective surfacing on the couch. The doctor was the stillness across from him. The room held everything.

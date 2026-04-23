@@ -1,13 +1,13 @@
 # Track 001: The Commute
 **Status:** Demo
-**Themes:** the drive home, observation, the screen vs. the windshield, spring on the edge, the greeting, feeding the house
-**Connects to:** Vol 1: Scene 001 (The Drive), Vol 1: Scene 006 (The Gas Station), Vol 1: Scene 010 (The Small String One), Track 000
+**Themes:** the drive, observation, the screen vs. the windshield, spring on the edge, the pull toward something unnamed
+**Connects to:** Vol 1: Scene 001 (The Drive), Vol 1: Scene 006 (The Gas Station), Track 000
 
 ---
 
 ## Lyrics
 
-The detective takes the same road home every day. That's not a complaint. That's a fact shaped like a prayer he doesn't know he's saying.
+The detective takes the same road every day. That's not a complaint. That's a fact shaped like a prayer he doesn't know he's saying.
 
 ---
 
@@ -53,7 +53,7 @@ He watches the eighteen-wheelers lined up with cargo and wonders if they ever le
 
 ---
 
-Fifty miles to empty. He'll make it. He'd rather fill up in the morning. Get home now. Not in a hurry — not the kind that kills people — but in the kind that pulls. The road pulls. The house pulls. The cupholder rattles and even the rattle is pulling him somewhere.
+Fifty miles to empty. He'll make it. Not in a hurry — not the kind that kills people — but in the kind that pulls. The road pulls. Something ahead pulls. The silence in the cab is pulling him somewhere.
 
 Green light. Sometimes you stop at a green light because people are turning left on a road that runs parallel to the one you're actually on. That used to bother him. It doesn't anymore.
 
@@ -69,22 +69,6 @@ Tonight he's stopping somewhere else.
 
 ---
 
-The small string one called. Not him — called the idea of him. The wife relayed it. *Can you stop and get him a crabby patty?* That's what the boy calls it. A crabby patty. Happy meal. Cheeseburger, meat and cheese only, chocolate milk, fries. The detective knows the order like he knows the route home. Some things you memorize without trying because the person who wants them is the reason you drive home at all.
-
-But if he's stopping for one, he's stopping for the house. Two fish sandwiches. Eight double cheeseburgers, extra pickles. A large chocolate shake for the road. Thirty-one seventy-nine. That's actually cheap for the number of people who live under his roof. Cheap for the noise that'll happen when he walks through the door with the bags. *Why didn't you get me anything?* Nobody will say that tonight. Tonight everybody eats.
-
-The interaction at the window is good. The guy taking his order — smooth. Friendly. The kind of exchange that should be ordinary but isn't, because most people forgot how to be easy with strangers. The detective hasn't. Or he's remembering. Same thing.
-
-He plots his entrance on the drive from the second window. The small string one — 8:26, 8:23, whatever time it is — should be at the front door. He doesn't know what version of dad he's going to be tonight. The loud one. The sneaky one. The one who just walks in and sets the bags down and waits for the riot. He's plotting. That's the best part. The planning of the ambush that isn't an ambush. The attack that's a gift. Crabby patty incoming.
-
----
-
-The chocolate shake is thick in the straw. He drinks it past the gas stations he used to stop at. The clouds are doing wicked twirls — dark valley, blue patch, everything dramatic because March doesn't know how to be subtle.
-
-He didn't check the bag. He hopes they got most of it right. If two are missing, he won't say anything. There's something at the house already. She probably cooked dinner. The crabby patty is a bonus. The eight double cheeseburgers are an event.
-
----
-
 The word *conscience*. He thinks about it for no reason. Conscious. Conscience. One means you're awake. The other means you know what you did. A good person has both. A bad person might have one and be angry at it and do worse things because the knowing doesn't stop the doing. He never thought about it that way before. He files it. The detective files everything. Even the stuff that doesn't fit in a folder.
 
 ---
@@ -95,15 +79,17 @@ The detective isn't above it. He has the screen too. He just tries to keep it be
 
 ---
 
-The last turn.
+He is driving toward downtown. The city pulling him. An appointment. Unnamed. He's been ready since he left. He's not sure what he's ready for. But the road knows.
 
-There is a feeling when you round the corner onto your own street. Fulfilling. No — filling. No — fulfilling filling. A feeling that fills and fulfills at the same time, and the two words get tangled in the mouth and that's fine because the feeling doesn't need to be spelled. It just needs to be felt.
+The buildings get taller. The spaces between them get narrower. The sky trades its wide open March drama for rectangles — blue cut into strips by rooflines and fire escapes and the specific architecture of a city that was built by people who had somewhere to be and built accordingly.
 
-The house is ahead. The lights are on. The greeting is coming. Sometimes the greeting makes the night. Not sometimes — every time. The meeting at the door. The crash through the doorway. The noise. The bodies. The weight of small arms around legs and the questions that don't need answers — *what'd you bring, what'd you bring, what'd you bring*.
+He passes the gas stations he used to pull into every day. He doesn't stop anymore. Something changed. He doesn't know what. The fluorescent cathedrals still glow but they're not calling him in today.
 
-The detective pulls in. The engine ticks. The cupholder rattles one last time.
+Today he's stopping somewhere else.
+
+The road knows where. The road has always known where. The detective just drives.
 
 ---
 
 ## Liner Notes
-Track 001 is the album's first real song — the full commute, start to finish. Everything the detective sees on the way home: historical markers he's never read, geese he's never noticed, dogwoods doing their annual ten-day hustle, crape myrtles he'll never plant, a hardware store he could live in, a cemetery where the dog has the right idea, a road being torn up for a future he'll drive on but didn't ask for. The gas stations from Volume One are still there but he passes them now. The stop is at McDonald's because the small string one called for a crabby patty — that's the real pull, stronger than fluorescent light ever was. The "fulfilling filling" phrase came straight from Shane's mouth, tangling itself up on purpose, and that's the track's landing — you don't need to spell the feeling. You just need to make the last turn. Knock knock. The cupholder rattle returns. The screen vs. windshield thread runs through the whole track — a motif for Volume Two. The detective isn't searching anymore. He's just driving home. But the drive home is its own kind of finding.
+Track 001 is the album's first real song — the full drive, start to finish. Everything the detective sees: historical markers he's never read, geese he's never noticed, dogwoods doing their annual ten-day hustle, crape myrtles he'll never plant, a hardware store he could live in, a cemetery where the dog has the right idea, a road being torn up for a future he'll drive on but didn't ask for. The gas stations from Volume One are still there but he passes them now. The drive is toward something unnamed — an appointment, a pull, a destination the road knows even if the detective hasn't named it. The screen vs. windshield thread runs through the whole track — a motif for Volume Two. The detective isn't searching anymore. He's just driving. But the driving is its own kind of finding.

@@ -69,7 +69,7 @@ Not the front door — nobody important comes through the front door. The grand 
 
 ---
 
-The needle is in the groove. The dust is singing. The detective is in his truck with the cupholder rattling and the windshield full of a world that keeps playing whether he's ready or not.
+The needle is in the groove. The dust is singing. The detective is in his chair with the silence rattling and the world full of a sound that keeps playing whether he's ready or not.
 
 He's ready.
 

@@ -13,7 +13,7 @@ There is a moment — everyone who has held a record knows it — where the arm 
 
 The detective knows this sound.
 
-He heard it once in a driveway with the engine off and the house humming beyond the door. He heard it once in a parking lot under fluorescent light that had no business being that beautiful. He heard it in the space between the doctor's last sentence and the walk back to the truck.
+He heard it once in a driveway with the engine off and the house humming beyond the door. He heard it once in a parking lot under fluorescent light that had no business being that beautiful. He heard it in the space between one breath and the next. Between asking and answering.
 
 The sound of something about to begin that already began a long time ago.
 
@@ -31,11 +31,11 @@ The case is closed. The detective found the file. The file was his. The film kep
 
 So what now?
 
-Now the album plays.
+Now the session begins.
 
 ---
 
-The detective doesn't have a turntable. He has a truck with a cupholder that rattles and a stereo that plays whatever the phone decides is next. But the principle is the same. The needle finds the groove. The sound begins. You don't choose the first track — the first track chooses the moment you were ready to hear it.
+The detective doesn't have a turntable. He has a chair. Silence. The moment before the needle drops. But the principle is the same. The needle finds the groove. The sound begins. You don't choose the first track — the first track chooses the moment you were ready to hear it.
 
 He's ready.
 
@@ -60,4 +60,4 @@ Let it drop.
 ---
 
 ## Liner Notes
-Track 000 is the album's breath before the first word. Volume One ended with "You just needed someone to drive you there." Volume Two opens with the needle dropping — the detective is back, the case is closed, but the record keeps turning. This track bridges the two volumes without requiring the reader to have read Volume One. The fish-tank line is pure Shane energy — the kind of aside that makes the noir land as comedy without ever breaking the frame. The cupholder rattle returns as an echo, not a callback. Different context, same sound.
+Track 000 is the album's breath before the first word. Volume One ended with "You just needed someone to drive you there." Volume Two opens with the needle dropping — the detective is back, the case is closed, but the record keeps turning. This track bridges the two volumes without requiring the reader to have read Volume One. The fish-tank line is pure Shane energy — the kind of aside that makes the noir land as comedy without ever breaking the frame. The chair and the silence replace the truck — the session is the new frame, though the reader doesn't know it yet.

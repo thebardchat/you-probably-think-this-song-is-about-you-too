@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>You Probably Think This Song Is About You Too</title>
+<style>
+  :root { --bg: #0d0d0d; --surface: #141414; --card: #1a1a1a; --green: #00ff88; --green-dim: #00cc66; --text: #e8e8e8; --muted: #888; --border: #2a2a2a; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Courier New', monospace; min-height: 100vh; }
+  header { border-bottom: 1px solid var(--green); padding: 2rem; text-align: center; }
+  header h1 { color: var(--green); font-size: clamp(1.4rem, 4vw, 2.2rem); letter-spacing: 0.05em; margin-bottom: 0.5rem; }
+  header .subtitle { color: var(--muted); font-size: 0.9rem; }
+  header .tagline { color: var(--text); font-style: italic; margin-top: 1rem; font-size: 1rem; }
+  .container { max-width: 900px; margin: 0 auto; padding: 2rem; }
+  .section-title { color: var(--green); font-size: 0.8rem; letter-spacing: 0.15em; text-transform: uppercase; margin: 2rem 0 1rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+  .track-list { list-style: none; }
+  .track-list li { display: flex; align-items: baseline; padding: 0.6rem 0; border-bottom: 1px solid var(--border); }
+  .track-list li:hover { background: var(--card); padding-left: 0.5rem; transition: all 0.15s; }
+  .track-num { color: var(--green-dim); font-size: 0.75rem; min-width: 90px; }
+  .track-title { color: var(--text); font-size: 1rem; }
+  .track-special { color: var(--muted); font-style: italic; font-size: 0.85rem; margin-left: 0.5rem; }
+  .companion-box { background: var(--card); border: 1px solid var(--green); border-radius: 4px; padding: 1.5rem; margin: 1.5rem 0; }
+  .companion-box a { color: var(--green); text-decoration: none; }
+  .companion-box a:hover { text-decoration: underline; }
+  .vision-block { background: var(--surface); border-left: 3px solid var(--green); padding: 1rem 1.5rem; margin: 1.5rem 0; font-size: 0.95rem; line-height: 1.7; color: var(--text); }
+  .vision-block p { margin-bottom: 0.75rem; }
+  .vision-block p:last-child { margin-bottom: 0; }
+  nav.ecosystem { margin: 3rem 0 1rem; }
+  .nav-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.75rem; }
+  .nav-card { background: var(--card); border: 1px solid var(--border); border-radius: 4px; padding: 0.75rem 1rem; text-decoration: none; color: var(--muted); font-size: 0.8rem; transition: border-color 0.15s, color 0.15s; }
+  .nav-card:hover { border-color: var(--green); color: var(--green); }
+  footer { text-align: center; padding: 2rem; border-top: 1px solid var(--border); color: var(--muted); font-size: 0.8rem; margin-top: 2rem; }
+  footer a { color: var(--green-dim); text-decoration: none; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>You Probably Think This Song Is About You Too</h1>
+  <p class="subtitle">A noir song cycle · Vol. 2 · Shane Brazelton</p>
+  <p class="tagline">"Don't stop. Don't quit. Speed is what we need. Kick it in high gear."</p>
+</header>
+
+<div class="container">
+
+  <div class="companion-box">
+    <strong style="color:var(--green)">Companion to:</strong>
+    <a href="https://github.com/thebardchat/you-probably-think-this-book-is-about-you">
+      You Probably Think This Book Is About You
+    </a> — Vol. 1 noir vignette book · 22 scenes · 12,800 words · audiobook recorded (78 min)<br><br>
+    <span style="color:var(--muted); font-size:0.85rem">This album is the second side of the same record.</span>
+  </div>
+
+  <p class="section-title">Main Sequence</p>
+  <ul class="track-list">
+    <li><span class="track-num">Track 000</span><span class="track-title">The Groove</span></li>
+    <li><span class="track-num">Track 001</span><span class="track-title">The Commute</span></li>
+    <li><span class="track-num">Track 002</span><span class="track-title">The Diner</span></li>
+    <li><span class="track-num">Track 003</span><span class="track-title">The Landing</span></li>
+    <li><span class="track-num">Track 004</span><span class="track-title">Substrate Firing</span></li>
+    <li><span class="track-num">Track 005</span><span class="track-title">The Wrong Reflection</span></li>
+    <li><span class="track-num">Track 006</span><span class="track-title">One Second</span></li>
+    <li><span class="track-num">Track 007</span><span class="track-title">Lipstick and Red Dress</span></li>
+    <li><span class="track-num">Track 008</span><span class="track-title">The Asking</span></li>
+    <li><span class="track-num">Track 009</span><span class="track-title">The Tip</span></li>
+    <li><span class="track-num">Track 010</span><span class="track-title">The Entrance</span></li>
+    <li><span class="track-num">Track 011</span><span class="track-title">The Shift</span></li>
+    <li><span class="track-num">Track 012</span><span class="track-title">The Pour</span></li>
+    <li><span class="track-num">Track 013</span><span class="track-title">The Third Thing</span></li>
+    <li><span class="track-num">Track 014</span><span class="track-title">The Twist</span></li>
+  </ul>
+
+  <p class="section-title">Special Tracks</p>
+  <ul class="track-list">
+    <li><span class="track-num">Track -0321</span><span class="track-title">Dr. Seen Returns</span><span class="track-special">bonus</span></li>
+    <li><span class="track-num">Sidetrack</span><span class="track-title">Sidetrack</span><span class="track-special">interlude</span></li>
+    <li><span class="track-num">[Hidden]</span><span class="track-title">[No Number. No Title.]</span><span class="track-special">the reveal</span></li>
+  </ul>
+
+  <p class="section-title">The Vision</p>
+  <div class="vision-block">
+    <p>The detective exists in a multidimensional realm. He is pulled out of his own reality and lives one second over and over — constantly trying to change a tragic outcome. Ripped out of his own body. Dropped into strangers at a European diner. Nine perspectives. One second. One outcome he cannot change.</p>
+    <p>The <strong style="color:var(--green)">calm place</strong> appears throughout. Old leather. Pencil graphite. A water stain shaped like a country nobody named. Building breadcrumbs to the hidden track.</p>
+    <p><strong style="color:var(--green)">Hidden track reveal:</strong> The calm place is Dr. Seen's office. He's been on the couch the whole time.</p>
+    <p><strong style="color:var(--green)">Sign-off:</strong> Mental health awareness. Real crisis numbers. <em>"It's never too late to be Seen."</em></p>
+  </div>
+
+  <nav class="ecosystem">
+    <p class="section-title">Ecosystem</p>
+    <div class="nav-grid">
+      <a class="nav-card" href="https://thebardchat.github.io/treasures/">Treasures Hub</a>
+      <a class="nav-card" href="https://thebardchat.github.io/AI-Trainer-MAX/">AI-Trainer-MAX</a>
+      <a class="nav-card" href="https://thebardchat.github.io/angelcloud-actual/">Angel Cloud</a>
+      <a class="nav-card" href="https://thebardchat.github.io/thought-tree/">Thought Tree</a>
+      <a class="nav-card" href="https://thebardchat.github.io/srm-dispatch/">SRM Dispatch</a>
+      <a class="nav-card" href="https://thebardchat.github.io/mini-shanebrain/">Mini ShaneBrain</a>
+      <a class="nav-card" href="https://thebardchat.github.io/shanebrain-learning/">ShaneBrain Learning</a>
+      <a class="nav-card" href="https://thebardchat.github.io/multi-container-app/">Multi Container App</a>
+      <a class="nav-card" href="https://github.com/thebardchat/you-probably-think-this-book-is-about-you">Book Vol. 1 (GitHub)</a>
+    </div>
+  </nav>
+
+</div>
+
+<footer>
+  Built by Shane Brazelton + Claude Anthropic | ShaneBrain Ecosystem, Hazel Green AL<br>
+  <a href="https://claude.ai/referral/4fAMYN9Ing">claude.ai/referral/4fAMYN9Ing</a>
+</footer>
+
+</body>
+</html>
