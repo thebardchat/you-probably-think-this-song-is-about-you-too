@@ -1,5 +1,5 @@
 # Track 000: The Groove
-**Status:** Demo
+**Status:** Locked
 **Themes:** silence, the beginning before the beginning, the needle, continuation
 **Connects to:** Vol 1: Scene 025 (The Return), Vol 1: Scene 014 (You Finally Found)
 

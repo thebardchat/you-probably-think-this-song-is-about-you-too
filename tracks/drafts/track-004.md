@@ -1,5 +1,5 @@
 # Track 004: Substrate Firing
-**Status:** Demo
+**Status:** Locked
 **Themes:** the return, inhabitation (the solitary man), the fullness of needing nothing, the stutter, time as a skipping needle, the dream you can't hold, the car as omen, no more time, pack-pack-pack
 **Connects to:** Track 002 (The Diner — same location, same cast), Track 003 (The Landing — re-entry), Vol 1: Scene 001 (The Lead Character — whose second is it)
 

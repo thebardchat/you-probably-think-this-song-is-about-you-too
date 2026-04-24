@@ -1,5 +1,5 @@
 # Track -0321: Dr. Seen Returns
-**Status:** Demo
+**Status:** Locked
 **Themes:** the second examination, the brain after inhabitation, the cost of being everyone, the substrate assessed, the album on the couch, compassion as architecture, the observer who became the observed who became everyone
 **Connects to:** Vol 1: Scene 018 (Dr. Seen — the first examination), ALL Volume Two tracks, Vol 1: Scene 001, Scene 014, Scene 025
 

@@ -1,5 +1,5 @@
 # Sidetrack
-**Status:** Demo
+**Status:** Locked
 **Themes:** distraction as arrival, the side of the groove, the grand entrance that came in through the back, the album introducing itself by pretending it wasn't going to
 **Connects to:** Track 000 (The Groove), the whole album, itself
 
