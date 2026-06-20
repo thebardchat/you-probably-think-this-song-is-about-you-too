@@ -12,7 +12,7 @@ Volume Two. The album after the movie. The detective didn't retire — he kept d
 **This is not a sequel. This is the second side of the same record.**
 
 - Volume One: "You Probably Think This Book Is About You" — 22 scenes, ~12,800 words, complete first draft, audiobook recorded (78 min)
-- Volume Two: "You Probably Think This Song Is About You Too" — 10 tracks (9 + hidden), restructured from 18, all Demo/Locked status
+- Volume Two: "You Probably Think This Song Is About You Too" — 17 tracks (16 + hidden), Director's Cut architecture, all Demo/Locked status
 - Repo: `thebardchat/you-probably-think-this-song-is-about-you-too` (PRIVATE)
 - Volume One repo: `thebardchat/you-probably-think-this-book-is-about-you` (PRIVATE)
 - Public process repo: `thebardchat/noir-detective-writing-process` (PUBLIC — NO manuscript content)
@@ -278,17 +278,25 @@ When the detective thinks in another language, he's REALLY inside someone else:
 | 000 | The Groove | Locked | A |
 | Sidetrack | (interlude) | Locked | A |
 | 001 | The Commute | Demo | A |
-| 002 | The Diner (9 inhabitations + gut punch) | Demo | A |
-| 003 | The Landing | Demo | FLIP |
+| 002 | The Diner | Demo | A |
+| 003 | The Landing | Demo | FLIP / B |
 | 004 | Substrate Firing | Locked | B |
-| 006 | The B-Side | Demo | B |
-| 008 | The Collision | Demo | B |
+| 005 | The Wrong Reflection | Demo | B |
+| 006 | One Second | Demo | B |
+| 007 | Lipstick and Red Dress | Demo | B |
+| 008 | The Asking | Demo | B |
+| 009 | The Tip | Demo | B |
+| 010 | The Entrance | Demo | B |
+| 011 | The Shift | Demo | B |
+| 012 | The Pour | Demo | B |
+| 013 | The Third Thing | Demo | B |
+| 014 | The Twist | Demo | B |
 | -0321 | Dr. Seen Returns (therapy frame revealed) | Locked | Bonus |
 | ??? | [Hidden] | HIDDEN | Hidden |
 
-**Active: 10 tracks (9 + hidden), all Demo/Locked status**
-**Archived: Tracks 005-014 (content absorbed into Track 002)**
-**Bonus material: Tracks 013, 014 (saved in tracks/bonus-material/)**
+**Active: 17 tracks (16 + hidden), all Demo/Locked status**
+**Archived: None (All tracks active in the Director's Cut)**
+**Bonus material: Tracks 006-the-b-side, 008-the-collision (saved in tracks/bonus-material/)**
 
 ---
 
