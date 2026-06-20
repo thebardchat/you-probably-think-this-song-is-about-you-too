@@ -3,8 +3,8 @@
 ## Side A
 | # | Title | Status | Themes | Connects To |
 |---|-------|--------|--------|-------------|
-| 000 | The Groove | Demo | silence, the beginning before the beginning, the needle, the chair | Vol 1: 001 |
-| Sidetrack | (interlude) | Demo | distraction as arrival, the side of the groove | Track 000 |
+| 000 | The Groove | Locked | silence, the beginning before the beginning, the needle, the chair | Vol 1: 001 |
+| Sidetrack | (interlude) | Locked | distraction as arrival, the side of the groove | Track 000 |
 | 001 | The Commute | Demo | the drive, observation, screen vs. windshield, spring, the pull toward something unnamed | Vol 1: 001, 006, Track 000 |
 | 002 | The Diner | Demo | simultaneity, 9 inhabitations, the gut punch, compassion as misdirection, love as rescue, strangers who aren't strangers | Vol 1: 018, 021-024, Track 001 |
 
@@ -15,12 +15,14 @@
 | # | Title | Status | Themes | Connects To |
 |---|-------|--------|--------|-------------|
 | 003 | The Landing | Demo | re-entry, the collision, the body you land in, the slow-motion second, everyone and no one, THE FLIP | Track 002, Vol 1: 001, 003, 004 |
-| 004 | Substrate Firing | Demo | inhabitation (the solitary man), the fullness of needing nothing, the stutter, Moby Dick, the car as omen, pack-pack-pack | Track 002, 003, Vol 1: 001 |
+| 004 | Substrate Firing | Locked | inhabitation (the solitary man), the fullness of needing nothing, the stutter, Moby Dick, the car as omen, pack-pack-pack | Track 002, 003, Vol 1: 001 |
+| 006 | The B-Side | Demo | Quantum Leap seam, bar with no name, man with the knob, the kid, wrong case, the hum | Track 002, 008 |
+| 008 | The Collision | Demo | Layer B characters meeting, the waitress, the clerk, the man in the gray coat, the ledger writer, blank/full ledger | Track 002, 006 |
 
 ## Bonus Track
 | # | Title | Status | Themes | Connects To |
 |---|-------|--------|--------|-------------|
-| -0321 | Dr. Seen Returns | Demo | the second examination, substrate empathy, the dispatcher, the therapy frame revealed, the brain was never just one brain | Vol 1: 018, ALL Vol 2 tracks |
+| -0321 | Dr. Seen Returns | Locked | the second examination, substrate empathy, the dispatcher, the therapy frame revealed, the brain was never just one brain | Vol 1: 018, ALL Vol 2 tracks |
 
 ## The Hidden Track
 *Not listed here. That's the point.*

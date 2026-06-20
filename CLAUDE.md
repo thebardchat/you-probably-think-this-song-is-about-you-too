@@ -12,7 +12,7 @@ Volume Two. The album after the movie. The detective didn't retire — he kept d
 **This is not a sequel. This is the second side of the same record.**
 
 - Volume One: "You Probably Think This Book Is About You" — 22 scenes, ~12,800 words, complete first draft, audiobook recorded (78 min)
-- Volume Two: "You Probably Think This Song Is About You Too" — 8 tracks (7 + hidden), restructured from 18, all Demo status
+- Volume Two: "You Probably Think This Song Is About You Too" — 10 tracks (9 + hidden), restructured from 18, all Demo/Locked status
 - Repo: `thebardchat/you-probably-think-this-song-is-about-you-too` (PRIVATE)
 - Volume One repo: `thebardchat/you-probably-think-this-book-is-about-you` (PRIVATE)
 - Public process repo: `thebardchat/noir-detective-writing-process` (PUBLIC — NO manuscript content)
@@ -275,16 +275,18 @@ When the detective thinks in another language, he's REALLY inside someone else:
 
 | # | Title | Status | Side |
 |---|-------|--------|------|
-| 000 | The Groove | Demo | A |
-| Sidetrack | (interlude) | Demo | A |
+| 000 | The Groove | Locked | A |
+| Sidetrack | (interlude) | Locked | A |
 | 001 | The Commute | Demo | A |
 | 002 | The Diner (9 inhabitations + gut punch) | Demo | A |
 | 003 | The Landing | Demo | FLIP |
-| 004 | Substrate Firing | Demo | B |
-| -0321 | Dr. Seen Returns (therapy frame revealed) | Demo | Bonus |
-| ??? | [Hidden] | Demo | Hidden |
+| 004 | Substrate Firing | Locked | B |
+| 006 | The B-Side | Demo | B |
+| 008 | The Collision | Demo | B |
+| -0321 | Dr. Seen Returns (therapy frame revealed) | Locked | Bonus |
+| ??? | [Hidden] | HIDDEN | Hidden |
 
-**Active: 8 tracks (7 + hidden), all Demo status**
+**Active: 10 tracks (9 + hidden), all Demo/Locked status**
 **Archived: Tracks 005-014 (content absorbed into Track 002)**
 **Bonus material: Tracks 013, 014 (saved in tracks/bonus-material/)**
 
