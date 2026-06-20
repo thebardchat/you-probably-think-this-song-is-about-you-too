@@ -317,9 +317,12 @@ tracks/interludes/
 tracks/archived/             — cut tracks (005-014), content absorbed into Track 002
 tracks/bonus-material/       — saved bonus material (013 The Third Thing, 014 The Twist)
 compiled/
-  draft-001.md               — original full manuscript (~43,000 words)
-  draft-002.md               — second compiled draft
-  draft-003.md               — restructured draft (therapy frame, condensed)
+  draft-006.md               — Director's Cut full manuscript (~43,160 words)
+  compile_uncut.py           — script to compile the full manuscript
+  generate_audio_script.py   — script to generate clean ElevenLabs TTS script
+  tts_pronunciation_dictionary.json — phonetic pronunciation mapping
+  audio_script_clean.txt     — cleaned plain text script with phonetics
+  audio_script.ssml          — cleaned SSML script with prosody control
 docs/
   MANIFEST.md                — track index with status, themes, connections
   TRACK_TEMPLATE.md          — blank template
@@ -357,6 +360,24 @@ RAW-DATA-COLLECTION.md       — comprehensive raw data collection for Part 2
 - **Name fix:** "Brazelton" → "Brazzleton" in TTS input
 - **Playback:** Must use `pw-play` (PipeWire), NOT `aplay` — HDMI requires PipeWire
 - **Known:** noise_scale/noise_w cause clipping — keep defaults
+
+---
+
+## Compilation & Audio Scripts
+
+To compile the full 17-track Director's Cut manuscript:
+```bash
+python compiled/compile_uncut.py
+# Output: compiled/draft-006.md
+```
+
+To generate the ElevenLabs clean scripts and SSML files for audiobook rendering:
+```bash
+python compiled/generate_audio_script.py
+# Outputs:
+#   - compiled/audio_script_clean.txt (phonetics in-place)
+#   - compiled/audio_script.ssml (break tags and prosody)
+```
 
 ---
 

@@ -1,0 +1,167 @@
+{
+  "characters": {
+    "Pepe": {
+      "phonetic": "PEH-peh",
+      "notes": "Critical character name, must be pronounced PEH-peh, not peep."
+    },
+    "Brazelton": {
+      "phonetic": "BRAZ-ul-ton",
+      "notes": "Spell as Brazzleton in TTS."
+    },
+    "Enzo Ferrara": {
+      "phonetic": "EN-zoh feh-RAH-rah",
+      "notes": "Italian pronunciation."
+    },
+    "Sandro Luciano": {
+      "phonetic": "SAHN-droh loo-CHAH-noh",
+      "notes": "Italian pronunciation."
+    },
+    "Luca Delvecchio": {
+      "phonetic": "LOO-kah del-VEK-ee-oh",
+      "notes": "Italian pronunciation."
+    },
+    "Marco Ferretti": {
+      "phonetic": "MAR-koh feh-RET-ee",
+      "notes": "Italian pronunciation."
+    },
+    "Tomás Aguilar": {
+      "phonetic": "toh-MAHS ah-gee-LAR",
+      "notes": "Spanish pronunciation, accent on á."
+    },
+    "Gianluca Parisi": {
+      "phonetic": "jahn-LOO-kah pah-REE-see",
+      "notes": "Italian pronunciation."
+    },
+    "Rafael Mendes": {
+      "phonetic": "hah-fah-EL MEN-dez",
+      "notes": "Brazilian Portuguese pronunciation."
+    },
+    "Claudia": {
+      "phonetic": "CLOW-dee-ah",
+      "notes": "Italian pronunciation."
+    },
+    "Davide": {
+      "phonetic": "dah-VEE-deh",
+      "notes": "Italian pronunciation."
+    },
+    "Marta": {
+      "phonetic": "MAR-tah",
+      "notes": "Italian pronunciation."
+    },
+    "Paulo": {
+      "phonetic": "POW-loh",
+      "notes": "Portuguese pronunciation."
+    },
+    "Ciro": {
+      "phonetic": "CHEE-roh",
+      "notes": "Italian pronunciation."
+    },
+    "Gerald": {
+      "phonetic": "JEH-ruld",
+      "notes": "Standard English pronunciation for the cat's name."
+    }
+  },
+  "places_and_proper_nouns": {
+    "San Siro": {
+      "phonetic": "sahn SEE-roh",
+      "notes": "AC Milan stadium."
+    },
+    "Villarreal": {
+      "phonetic": "vee-yah-reh-AHL",
+      "notes": "Spanish football club."
+    },
+    "Salerno": {
+      "phonetic": "sah-LAIR-noh",
+      "notes": "Italian city."
+    },
+    "Bari": {
+      "phonetic": "BAH-ree",
+      "notes": "Italian city."
+    },
+    "São Paulo": {
+      "phonetic": "sow POW-loh",
+      "notes": "Brazilian city."
+    },
+    "Napoli": {
+      "phonetic": "NAH-poh-lee",
+      "notes": "Italian city. Put emphasis on the first syllable."
+    },
+    "Pune": {
+      "phonetic": "POO-neh",
+      "notes": "Indian city."
+    },
+    "Ibiza": {
+      "phonetic": "ee-BEE-thah",
+      "notes": "Spanish island."
+    },
+    "Valencia": {
+      "phonetic": "vah-LEN-see-ah",
+      "notes": "Spanish city."
+    },
+    "Antonio's": {
+      "phonetic": "an-TOH-nee-ohs",
+      "notes": "The industry bar name."
+    },
+    "CVS": {
+      "phonetic": "C-V-S",
+      "notes": "Spoken as individual letters."
+    }
+  },
+  "foreign_words_and_phrases": {
+    "कोई क्या अपमान में मैं": {
+      "phonetic": "koy kyaa ap-MAAN mein main",
+      "language": "Hindi"
+    },
+    "आधा किया जी": {
+      "phonetic": "AAH-dhah kee-YAH jee",
+      "language": "Hindi"
+    },
+    "Muoviti": {
+      "phonetic": "MWOH-vee-tee",
+      "language": "Italian"
+    },
+    "FRATELLO": {
+      "phonetic": "frah-TEL-loh",
+      "language": "Italian"
+    },
+    "Aos irmãos. Aos que ficaram. Aos que voltaram.": {
+      "phonetic": "owsh eer-MOWNS. owsh keh fee-KAH-rong. owsh keh vol-TAH-rong.",
+      "language": "Portuguese"
+    },
+    "irmão": {
+      "phonetic": "eer-MOWNG",
+      "language": "Portuguese"
+    },
+    "grazie, Mamma": {
+      "phonetic": "GRAH-tsee-eh, MAH-mah",
+      "language": "Italian"
+    },
+    "senhora": {
+      "phonetic": "sen-YOR-ah",
+      "language": "Portuguese"
+    },
+    "limoncello": {
+      "phonetic": "lee-mon-CHEL-loh",
+      "language": "Italian"
+    },
+    "trattoria": {
+      "phonetic": "trah-toh-REE-ah",
+      "language": "Italian"
+    },
+    "Pelé": {
+      "phonetic": "peh-LEH",
+      "language": "Portuguese"
+    }
+  },
+  "english_pronunciations": {
+    "panopticon": {
+      "phonetic": "pan-OP-tih-kon"
+    },
+    "epistemology": {
+      "phonetic": "eh-PIST-eh-MOL-oh-jee"
+    },
+    "jigger": {
+      "phonetic": "JIG-er"
+    }
+  }
+}

@@ -146,6 +146,8 @@ Total black. The detective dropped into a room with no walls, no floor, no light
 
 *You said to her. Me?*
 
+*What I long to be anywhere else pulls back in with you.*
+
 *If I had known.*
 
 *If I somehow could have picked up.*

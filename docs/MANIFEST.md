@@ -24,7 +24,7 @@
 | 010 | The Entrance | Demo | inhabitation (the loud man), the force of presence, ex-teammates, locker room tribe, being remembered, sacred vineyard | Track 009, 002, Vol 1: 008 |
 | 011 | The Shift | Demo | inhabitation (the waiter), the morning checklist, the hangover, mop closet, congratulations to erasure, step over/around | Track 010, 002, Vol 1: 004 |
 | 012 | The Pour | Demo | inhabitation (the bartender), Bari origins, mother's limoncello, bottle flip show, professional distance, Tokyo silence | Track 011, 002, Vol 1: 018 |
-| 013 | The Third Thing | Demo | dream layer, CVS reference, stapler within stapler, narrator writing while driving, meta-commentary, love all the way down | Track 012, 002, Vol 1: 025 |
+| 013 | The Third Thing | Demo | dream layer, trip to the shop, stapler within stapler, narrator writing while driving, meta-commentary, love all the way down | Track 012, 002, Vol 1: 025 |
 | 014 | The Twist | Demo | investigator investigated, the detective as the eighth figure, Pepe's client, the camera, the case file, the twist reveal | Track 013, 002, Vol 1: 014 |
 
 ## Bonus Track

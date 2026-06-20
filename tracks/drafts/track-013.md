@@ -229,7 +229,7 @@ Inside the diner was the couple with the bread crust, still finding each other, 
 
 The nesting is the point.
 
-Not the layers — the nesting. The way humans put things inside other things and the inside things contain more things and the more things are also the outside things and the recursion is infinite and the infinity is not frightening, it is comforting, because it means there is always a deeper level and the deeper level always contains the same thing: two people with bread crust, finding each other. Love at the center of the stapler. Love at the center of the dream. Love at the center of the CVS trip and the voice recording and the detective's case file and the album and the book and the everything.
+Not the layers — the nesting. The way humans put things inside other things and the inside things contain more things and the more things are also the outside things and the recursion is infinite and the infinity is not frightening, it is comforting, because it means there is always a deeper level and the deeper level always contains the same thing: two people with bread crust, finding each other. Love at the center of the stapler. Love at the center of the dream. Love at the center of the trip to the shop and the voice recording and the detective's case file and the album and the book and the everything.
 
 You can go as deep as you want.
 
@@ -281,7 +281,7 @@ South of the lungs.
 
 ---
 
-He exhaled too.
+He exhaled.
 
 The big sigh.
 
