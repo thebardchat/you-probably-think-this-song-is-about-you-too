@@ -4,9 +4,9 @@
 | # | Title | Status | Themes | Connects To |
 |---|-------|--------|--------|-------------|
 | 000 | The Groove | Locked | silence, the beginning before the beginning, the needle, the chair | Vol 1: 001 |
-| Sidetrack | (interlude) | Locked | distraction as arrival, the side of the groove | Track 000 |
 | 001 | The Commute | Demo | the drive, observation, screen vs. windshield, spring, the pull toward something unnamed | Vol 1: 001, 006, Track 000 |
 | 002 | The Diner | Demo | simultaneity, Pepe, Ireland, the Dark Room, the Rescue, the Out-of-body transition | Vol 1: 018, 021-024, Track 001 |
+| Sidetrack | (interlude) | Locked | distraction as arrival, the side of the groove | Track 002, Track 003 |
 
 ## The Flip
 *Unmarked. Somewhere in the tracklist. You won't know until it's there.*
