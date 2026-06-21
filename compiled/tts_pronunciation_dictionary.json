@@ -86,10 +86,6 @@
       "phonetic": "NAH-poh-lee",
       "notes": "Italian city. Put emphasis on the first syllable."
     },
-    "Pune": {
-      "phonetic": "POO-neh",
-      "notes": "Indian city."
-    },
     "Ibiza": {
       "phonetic": "ee-BEE-thah",
       "notes": "Spanish island."
@@ -101,10 +97,6 @@
     "Antonio's": {
       "phonetic": "an-TOH-nee-ohs",
       "notes": "The industry bar name."
-    },
-    "CVS": {
-      "phonetic": "C-V-S",
-      "notes": "Spoken as individual letters."
     }
   },
   "foreign_words_and_phrases": {

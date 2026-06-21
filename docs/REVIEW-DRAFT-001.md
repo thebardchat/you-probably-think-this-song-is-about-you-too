@@ -36,11 +36,9 @@ Every word that needs phonetic guidance for ElevenLabs. Build this into the audi
 | Mayfair | Standard English | |
 | São Paulo | sow POW-loh | Brazilian city |
 | Napoli | NAH-poh-lee | Not "nah-POH-lee" |
-| Pune | POO-neh (line 622) | Indian city, mentioned as comparison |
 | Ibiza | ee-BEE-thah or ih-BEE-zah | Either acceptable |
 | Valencia | vah-LEN-see-ah | |
 | Antonio's | an-TOH-nee-ohs | The industry bar |
-| CVS | See-Vee-Ess | Line 2740 — spoken as letters |
 
 ### Foreign Words & Phrases
 | Word/Phrase | Language | Phonetic | Line |
@@ -101,9 +99,9 @@ This is raw-voice-adjacent material. Some lines are transcription artifacts that
 - Track 014 reveals the detective as "the eighth figure. The one nobody counted."
 - **This works.** The seven is the diner cast. The detective is the uncounted eighth. The four screens couple doesn't get inhabited and fades from later tracks. Continuity holds.
 
-### B4. Track 004 — "Pune" Reference (Line 622)
-"Beautiful the way Pune is beautiful — soft, specific, not asking for anything."
-- This is from the solitary man's inhabitation. The reference to Pune (Indian city) is unexpected. Is this a raw voice artifact from Shane's dump, or was it shaped? If raw, keep it — it's the solitary man's mind, not the detective's. If shaped, it could be a reach that breaks the European setting for a moment.
+### B4. Track 004 — "Pune" Reference (Line 622) [RESOLVED - CHANGED TO SALERNO]
+"Beautiful the way Salerno is beautiful — soft, specific, not asking for anything."
+- **Resolution:** Changed "Pune" to "Salerno" in the manuscript to maintain the European diner setting (matching Luca's background) and updated the audio script/pronunciation dictionary accordingly.
 
 ### B5. Track 009 — "Volume One" Direct Reference (Line 1544)
 "The kind of armor the doctor in Volume One would recognize: *sophisticated, also armor, the armor has good taste.*"
@@ -113,14 +111,13 @@ This is raw-voice-adjacent material. Some lines are transcription artifacts that
 "none of them knowing that they were inside the same second, the same groove, the same album track"
 - Another meta-reference. The characters are described as being inside an "album track." This is consistent with the album-as-structure conceit but could break immersion in audio. **Shane's call.**
 
-### B7. Track 013 — "CVS" Reference (Line 2740)
-"a man was recording while walking and driving and buying things at CVS"
-- This breaks the noir European setting by referencing an American store chain. It works because it's the dream track and it's meta — the detective is inside a story inside a stapler inside a dream. But in audio, "CVS" might pull the listener out of the European diner world. **Shane's call — it's very Shane, which may be exactly why it stays.**
+### B7. Track 013 — "CVS" Reference (Line 2740) [RESOLVED - CHANGED TO SHOP]
+"a man was recording while walking and driving and buying things at the shop"
+- **Resolution:** Replaced "CVS" with "the shop" in the manuscript to maintain the European diner setting.
 
-### B8. Hidden Track → Bonus Track Ordering
+### B8. Hidden Track → Bonus Track Ordering [RESOLVED - ADDED TRANSITION]
 In the compiled manuscript, the Bonus Track (Dr. Seen Returns) comes BEFORE the hidden track. This means Dr. Seen examines the detective, then the hidden track reveals the detective inside Dr. Seen. The reader gets the clinical assessment first, then the experiential version.
-- **This works narratively** — you hear the doctor's professional analysis, then you FEEL what it's like to be the doctor looking at this man on the couch. The bonus track sets up the hidden track's gut punch.
-- **But:** The bonus track mentions the detective walking out and checking his hands (lines 3462-3470). Then the hidden track shows another session where he does the same thing. This could feel repetitive. **Consider:** Does the reader understand these are different Wednesdays? The hidden track says "months of Wednesdays" (line 3570) which clarifies it's an ongoing pattern, not a repeat of the same day.
+- **Resolution:** Retained the ordering but added a clarifying transition sentence in the Hidden Track stating: "Another Wednesday. Another session. Same room, same ceiling, same silence, but a different week." to resolve track repeat ambiguity.
 
 ---
 
