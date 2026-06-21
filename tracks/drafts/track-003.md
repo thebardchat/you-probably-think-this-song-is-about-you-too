@@ -7,9 +7,9 @@
 
 ## Lyrics
 
-He came back down.
+The descent is never elegant.
 
-Always comes back down.
+He always lands hard.
 
 That's the part nobody frames — the re-entry. The moment the camera crane stops its slow romantic pull and the detective is back inside his own chest, back behind his own eyes, back in the specific gravity of a body sitting at a table on a terrace in a European plaza with a coffee that went cold somewhere around the fifth inhabitation.
 
@@ -67,6 +67,8 @@ The solitary man's book was still open. The pages were still catching the light.
 
 The loud man was still hugging the thick one. The Brazilian's wine was still decent. The vineyard was still sacred.
 
+The four screens kept glowing. Two couples, one table, four little windows looking out onto a world that wasn't this plaza, wasn't this car, wasn't this second. The glass didn't crack. The clips kept playing. A dog in a costume, a girl in a kitchen, a dance that lasted fifteen seconds and started over again. The light from the screens stayed blue on their faces, cold against the warm brick dust.
+
 ---
 
 And yet again.
@@ -81,7 +83,7 @@ None of it had happened.
 
 All of it had happened.
 
-Every person at the diner lived a second that didn't happen. The Englishman proposed in a second that didn't happen. The woman was loved in a second that didn't happen. Pepe's heart broke in a second that didn't happen. The beggar was erased in a second that didn't happen. The family in the alley lost everything in a second that didn't happen. The bartender's bottle flew in a second that didn't happen.
+Every person at the diner lived a second that didn't happen. The Englishman proposed in a second that didn't happen. The woman was loved in a second that didn't happen. Pepe's heart broke in a second that didn't happen. The beggar was erased in a second that didn't happen. The family in the alley lost everything in a second that didn't happen. The bartender's bottle flew in a second that didn't happen. The four screens kept glowing in a second that didn't happen.
 
 Each person lives a second they don't live.
 

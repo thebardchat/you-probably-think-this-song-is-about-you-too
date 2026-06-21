@@ -243,5 +243,26 @@ This one ended when the listener left the room.
 
 ---
 
+*Let the record spin.*
+
+*Like we did when the heat was high.*
+
+*Like we did before the proof.*
+
+*Like we did when the stories were enough and the smoke trailed away and the man behind the wheel was still the pep in your step and the dress was for him and the laugh was in the corner and the corner was still standing.*
+
+*Let the record spin.*
+
+*One more time.*
+
+*The record will play if you put it back on.*
+
+*The groove is still there.*
+
+*The groove is always still there.*
+
+---
+
+
 ## Liner Notes
 Track 014 is the twist that reframes the entire album. Pepe hired the detective. The detective was working for Pepe the whole time — sitting at a table in the diner, taking pictures, watching the woman in the red dress. The detective was the eighth figure in the diner. The one nobody counted. The cold coffee wasn't atmosphere — it was a stakeout. The "out-of-body" experiences, the inhabitations, the substrate firing — all of it was the detective's mind processing the room while he sat at his table doing his job. Every track on Side B was the detective's empathy running at substrate level while he professionally, clinically watched his client's wife sit across from another man in a dress the client bought her. Then the phone call. Pepe — "I'm the pep in your step!" — calling the detective who calls him back with the confirmation. The voice that had told stories through pubs that shook with songs now hearing: "I have her dead in my sights." Twenty minutes. Pepe says twenty minutes. Pepe lets go of the steering wheel. The car finds the diner. The thuds get quieter, not louder. The beggar at the edge of the sidewalk — the same sidewalk, the same man, the same peace he welcomed. The car hits the bar. The bartender's last act is the bottle flip — still perfect, still in the air, still spinning. The top-shelf glass hits Pepe with the accuracy of a man who never poured amateur. Then: the detective gets up. Fedora. Walks away. The case was solved. The loud sounds are gone. The mumbles cease. And the record stops — not because the music ended, but because the listener left the room. "Let's Twist Again" closes as the album's final refrain: the groove is still there. The groove is always still there. You just have to put the record back on. This track is Volume Two's Scene 014 — the hidden finale, the ending that was always coming, the thing at the end of the road you almost didn't take.

@@ -4,9 +4,9 @@ import re
 TRACK_LIST = [
     # (filepath, title_override, prefix)
     ("tracks/drafts/track-000.md", "### Track 000 — The Groove", "## SIDE A\n\n---\n\n"),
-    ("tracks/interludes/sidetrack.md", "### Sidetrack", ""),
     ("tracks/drafts/track-001.md", "### Track 001 — The Commute", ""),
     ("tracks/drafts/track-002.md", "### Track 002 — The Diner", ""),
+    ("tracks/interludes/sidetrack.md", "### Sidetrack", ""),
     ("tracks/drafts/track-003.md", "### Track 003 — The Landing", "## SIDE B\n\n---\n\n"),
     ("tracks/drafts/track-004.md", "### Track 004 — Substrate Firing", ""),
     ("tracks/drafts/track-005.md", "### Track 005 — The Wrong Reflection", ""),

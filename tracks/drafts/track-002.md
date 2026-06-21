@@ -106,45 +106,45 @@ Total black. The detective dropped into a room with no walls, no floor, no light
 
 *It usually does.*
 
-*Never do.*
+*Never did. Never does.*
 
-*Do you hear me? Are you listening to me? Are you listening to me? If you're listening, dear party, let me know that you hear me.*
+*Do you hear me? Are you listening to me? If you're listening, let me know. Just let me know you hear me.*
 
 *Hello?*
 
-*And many more.*
+*And so many more.*
 
-*Fresh out the door. I want to see what's happened to me.*
+*Fresh out the door. I just want to see what's happened to me.*
 
 *Is it right? Is it wrong?*
 
-*I can't see anymore.*
+*I can't see the light anymore.*
 
-*I feel this red count.*
+*I feel the red count.*
 
 *I feel the dead count.*
 
 *But I'm not sure.*
 
-*I can endure the thought that they did not survive the impact.*
+*I can endure the thought that they didn't survive the impact.*
 
 *Because I've been stopped.*
 
-*Is there something I could have said when we first met up?*
+*Is there something I could have said when we first met?*
 
 *The day you picked me up.*
 
 *If I could only have seen.*
 
-*And so the only reason you hugged me—you were missing a connection and finding it an obsession.*
+*And so the only reason you hugged me — you were missing a connection and finding it an obsession.*
 
 *You needed connection.*
 
 *I am the first person you picked up.*
 
-*After hearing that your woman might be speaking out on you.*
+*After hearing that your woman was stepping out on you.*
 
-*You said to her. Me?*
+*You said to her: Me?*
 
 *What I long to be anywhere else pulls back in with you.*
 
@@ -152,7 +152,7 @@ Total black. The detective dropped into a room with no walls, no floor, no light
 
 *If I somehow could have picked up.*
 
-*On the anguish you were going through, but you seemed like you were so such a happy dude.*
+*On the anguish you were going through, but you seemed like such a happy dude.*
 
 *I just don't know.*
 

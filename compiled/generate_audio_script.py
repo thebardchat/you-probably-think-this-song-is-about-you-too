@@ -4,9 +4,9 @@ import re
 TRACK_LIST = [
     # (filepath, spoken_title, prefix)
     ("tracks/drafts/track-000.md", "Side A. Track Zero: The Groove.", ""),
-    ("tracks/interludes/sidetrack.md", "Sidetrack.", ""),
     ("tracks/drafts/track-001.md", "Track One: The Commute.", ""),
     ("tracks/drafts/track-002.md", "Track Two: The Diner.", ""),
+    ("tracks/interludes/sidetrack.md", "Sidetrack.", ""),
     ("tracks/drafts/track-003.md", "Side B. Track Three: The Landing.", ""),
     ("tracks/drafts/track-004.md", "Track Four: Substrate Firing.", ""),
     ("tracks/drafts/track-005.md", "Track Five: The Wrong Reflection.", ""),
@@ -47,7 +47,6 @@ PHONETIC_REPLACEMENTS = {
     "Bari": "BAH-ree",
     "São Paulo": "sow POW-loh",
     "Napoli": "NAH-poh-lee",
-    "Pune": "POO-neh",
     "Ibiza": "ee-BEE-thah",
     "Valencia": "vah-LEN-see-ah",
     "Antonio's": "an-TOH-nee-ohs",
@@ -121,9 +120,12 @@ def apply_phonetics(text):
         text = text.replace(key, val)
     return text
 
-def clean_markdown_and_html(text):
-    # Remove HTML space markers
-    text = text.replace("&nbsp;", "")
+def clean_markdown_and_html(text, is_ssml=False):
+    # Convert HTML space markers to pauses/breaks
+    if is_ssml:
+        text = text.replace("&nbsp;", "\n<break time=\"2.5s\"/>\n")
+    else:
+        text = text.replace("&nbsp;", "\n[Pause: 2.5s]\n")
     
     # Remove bold markers
     text = text.replace("**", "")
@@ -179,10 +181,7 @@ def main():
         print(f"Processing {filepath}...")
         lyrics = extract_lyrics(filepath)
         
-        # 1. Clean markdown formatting
-        lyrics = clean_markdown_and_html(lyrics)
-        
-        # 2. Handle specific track modifications
+        # 1. Handle specific track modifications
         
         # Side A End of Playback
         if "track-002" in filepath:
@@ -191,9 +190,12 @@ def main():
                 "End of Side A. End of playback."
             )
             
+        # 2. Clean markdown formatting separately for txt and ssml
+        lyrics_txt = clean_markdown_and_html(lyrics, is_ssml=False)
+        lyrics_ssml = clean_markdown_and_html(lyrics, is_ssml=True)
+        
         # 3. Apply phonetics to the plain text script only
-        lyrics_txt = apply_phonetics(lyrics)
-        lyrics_ssml = lyrics # Keep original spellings in SSML, we can apply SSML tags or let the engine handle it with standard dictionary
+        lyrics_txt = apply_phonetics(lyrics_txt)
         
         # Pepe's labored name pronunciation in hidden track
         if "track-hidden" in filepath:

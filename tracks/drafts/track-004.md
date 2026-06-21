@@ -27,7 +27,7 @@ Not watching him. Not beside him. Inside his hands, inside his quiet, inside the
 
 The voyage. That's the fun part. Not the destination. The going-into. The part where you point the bow at something enormous and say fine. Let's go find out.
 
-He looked over — the solitary man's eyes, not his — and saw the couple. Bread crust. Feeling each other like a scene from something. Beautiful the way Pune is beautiful — soft, specific, not asking for anything. He saw them the way the solitary man sees them — without envy, without longing, without the need to be inside the thing he was watching. Just observation. Just the quiet noting of beauty from behind the cover of a book that asks nothing of anyone.
+He looked over — the solitary man's eyes, not his — and saw the couple. Bread crust. Feeling each other like a scene from something. Beautiful the way Salerno is beautiful — soft, specific, not asking for anything. He saw them the way the solitary man sees them — without envy, without longing, without the need to be inside the thing he was watching. Just observation. Just the quiet noting of beauty from behind the cover of a book that asks nothing of anyone.
 
 Next to them the big buddy. Great, generous presence. Nothing as exciting as a movie. Better than a movie. One of the greatest to ever do it — just sitting there, eating, existing with full commitment.
 

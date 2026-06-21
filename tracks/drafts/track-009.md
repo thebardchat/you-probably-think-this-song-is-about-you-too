@@ -19,15 +19,7 @@ Without announcing itself.
 
 ---
 
-The cat was on her chest.
-
-Not the cute way. Not the way cats sit on chests in the pictures that people post — centered, poised, looking directly at the camera like they chose this moment to be adorable. The cat was on her chest the way her cat was always on her chest — diagonal, one paw on her collarbone, the other paw somewhere near her armpit, the back end hanging off the side like the cat had done the math on how much surface area was available and decided to use exactly sixty percent of it and let the rest figure itself out.
-
-The cat's name was Gerald.
-
-She didn't name him. The cat came with the apartment. The last tenant left a note on the counter that said *His name is Gerald, he eats at 7, don't try to change it*. She tried to change it. Gerald ate at 7.
-
-She moved Gerald. Gerald did not acknowledge being moved. Gerald relocated to the foot of the bed with the specific indifference of an animal that has been relocated before and will be relocated again and has made peace with the fact that relocation is the entire relationship.
+The cat was on her chest, diagonal and heavy, using sixty percent of the available surface area. His name was Gerald. He came with the apartment. The last tenant left a note on the counter: *His name is Gerald, he eats at 7, don't try to change it.* She tried once. Gerald still ate at 7. She moved him to the foot of the bed; Gerald relocated with the specific indifference of an animal that has made peace with human drift.
 
 ---
 
@@ -43,19 +35,11 @@ She brushed her teeth. The toothpaste was almost out. She squeezed from the bott
 
 ---
 
-The kitchen.
-
-The kitchen was four steps from the bathroom. She counted them once when she was drunk and the number had stayed in her head the way useless numbers stay — permanently, involuntarily, taking up space that could be used for something important like her mother's birthday or the name of the street she grew up on which she sometimes blanked on and then felt a specific, private shame about.
+The kitchen was four steps from the bathroom. She counted them once and the number stayed, taking up space that could have held her mother's birthday.
 
 Four steps.
 
-The coffee maker was the kind that takes pods. She didn't buy the pods. The pods were from the discount bin at the shop on the corner where the man who worked the register knew her name and called her *love* and she let him because correcting him would require a conversation and conversations before coffee were not something she had signed up for in the terms and conditions of this life.
-
-The pod went in. The lid went down. The button — one button, the machine had one button, the simplest machine in the apartment, simpler than Gerald — and the sound started. The gurgling. The dripping. The specific noise of water being heated by a coil and forced through a small hole into a cup that said WORLD'S BEST MUM on it even though she was not a mum and the cup was from a charity shop and the irony was not lost on her and was also not funny anymore and hadn't been funny since the third week.
-
-She drank the coffee standing up.
-
-Not because she was in a hurry. Because the chair at the kitchen table had a wobble and the wobble bothered her and she kept meaning to put a folded piece of cardboard under the short leg and she had never done it and at this point the not-doing-it was a commitment. A stance. A hill she was dying on in her own kitchen at 6:31 in the morning while Gerald ate at 7.
+The pod went into the machine. The button clicked. It was the simplest machine in the apartment, gurgling water into a cup that said WORLD'S BEST MUM. She wasn't a mum. The cup was from a charity shop, the irony long dead. She drank standing because the kitchen chair wobbled, and at this point, not fixing it was a commitment. A stance. A hill she was dying on at 6:31 in the morning while Gerald waited for 7.
 
 ---
 
@@ -89,35 +73,19 @@ Even the dog found her uninteresting.
 
 ---
 
-The bus.
-
-The bus came at 7:42 except when it came at 7:48 or 7:51 or once, memorably, at 8:03, by which time she had done the math on walking versus waiting and the math had come back inconclusive and she'd stood there anyway because standing at a bus stop is its own form of commitment and she was, if nothing else, committed to the things she'd already started doing even when the things she'd already started doing were standing still.
-
-Today it came at 7:44. Close enough. She got on. She sat in the seat she always sat in — third from the back, left side, window — not because she liked the view but because the seat had a specific depression in the cushion that matched her specific depression in a way that felt personal. The seat knew her. The seat had memorized her shape the way Gerald had memorized 7 o'clock and the coffee machine had memorized the one button.
+The bus was scheduled for 7:42 but came at 7:44. She sat third from the back, left side, window, in a specific depression in the cushion that matched her own. The seat had memorized her shape the way Gerald had memorized 7 o'clock.
 
 The bus moved.
 
-She looked out the window.
-
-Nothing happened.
-
-That is not a description of the view. The view was buildings and streets and people and cars and the specific gray of a European morning that hasn't decided whether it's going to commit to cloud cover or give up and let the sun through. Nothing happened is a description of her. Inside. Nothing happened inside her while the bus moved and the window showed her the world and the world showed her nothing she hadn't seen four hundred times from the same depression in the same cushion on the same bus that came at approximately the same time every morning.
-
-She got off two stops early because a man sat next to her and his elbow was on the armrest and the armrest was the only thing between her and a conversation and she could not — would not — have a conversation before she'd been at work long enough to become the person who has conversations.
+She looked out the window. Nothing happened inside her. She got off two stops early because a man sat next to her, his elbow contesting the armrest, and she was not ready for the effort of sharing a boundary.
 
 She walked the rest.
 
 ---
 
-The walk was eleven minutes.
+The walk was eleven minutes. Pavement, shop fronts, a newsstand she no longer used, and a florist with the cheap flowers out front and the expensive ones behind the glass. She was on the wrong side of the glass.
 
-She knew because her body knew the way all bodies know the routes they take when the mind is elsewhere. Eleven minutes from the bus stop to the diner. Eleven minutes of pavement and shop fronts and the bakery that smelled like the promise of a different life and the newsstand that sold magazines she used to buy when buying magazines was a thing she did and the florist that put the cheap ones out front and the expensive ones in the window and the distinction was clear and she was on the wrong side of the glass.
-
-She passed the alley where the bins were.
-
-She didn't look.
-
-She never looked. The alley was the alley and the bins were the bins and whatever was in the alley beyond the bins was none of her business because her business started at the front door of the diner and ended when the last table was wiped and the tips were counted and the tips were never enough and the not-enough was the whole conversation she was having with her life every night on the bus home in the same seat with the same depression.
+She passed the alley where the bins were. She didn't look. Whatever lay beyond them was none of her business. Her business was the diner, the tables, and the tips that were never enough.
 
 ---
 

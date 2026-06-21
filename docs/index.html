@@ -1,245 +1,331 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>You Probably Think This Song Is About You Too</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Outfit:wght@300;400;500;700;900&display=swap" rel="stylesheet">
-<style>
-  :root {
-    --bg: #09090b;
-    --surface: #121214;
-    --card: #18181b;
-    --green: #00ff88;
-    --green-dim: #05cf72;
-    --green-glow: rgba(0, 255, 136, 0.15);
-    --text: #f4f4f5;
-    --muted: #a1a1aa;
-    --border: #27272a;
-  }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'JetBrains Mono', monospace;
-    min-height: 100vh;
-    background-image: radial-gradient(circle at 50% -20%, #1a2e26 0%, var(--bg) 70%);
-  }
-  header {
-    border-bottom: 1px solid var(--border);
-    padding: 3rem 2rem;
-    text-align: center;
-    position: relative;
-  }
-  header h1 {
-    font-family: 'Outfit', sans-serif;
-    color: var(--text);
-    font-weight: 900;
-    font-size: clamp(1.6rem, 5vw, 2.8rem);
-    letter-spacing: -0.02em;
-    margin-bottom: 0.75rem;
-    text-transform: capitalize;
-    background: linear-gradient(135deg, #ffffff 40%, var(--green) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-  header .subtitle {
-    color: var(--muted);
-    font-size: 0.95rem;
-    letter-spacing: 0.05em;
-  }
-  header .tagline {
-    font-family: 'Outfit', sans-serif;
-    color: var(--green);
-    font-style: italic;
-    margin-top: 1.25rem;
-    font-size: 1.05rem;
-    text-shadow: 0 0 10px rgba(0, 255, 136, 0.2);
-  }
-  .container { max-width: 900px; margin: 0 auto; padding: 3rem 2rem; }
-  .section-title {
-    font-family: 'Outfit', sans-serif;
-    color: var(--green);
-    font-size: 0.85rem;
-    font-weight: 700;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    margin: 3rem 0 1.25rem;
-    border-bottom: 1px solid var(--border);
-    padding-bottom: 0.5rem;
-  }
-  .track-list { list-style: none; display: flex; flex-direction: column; gap: 0.25rem; }
-  .track-list li {
-    display: flex;
-    align-items: baseline;
-    padding: 0.8rem 1rem;
-    border-radius: 6px;
-    border: 1px solid transparent;
-    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  }
-  .track-list li:hover {
-    background: var(--card);
-    border-color: var(--border);
-    padding-left: 1.5rem;
-    box-shadow: inset 3px 0 0 0 var(--green);
-  }
-  .track-num {
-    color: var(--green-dim);
-    font-size: 0.8rem;
-    font-weight: 500;
-    min-width: 110px;
-  }
-  .track-title { color: var(--text); font-size: 1.05rem; font-weight: 400; }
-  .track-special {
-    font-family: 'Outfit', sans-serif;
-    color: var(--muted);
-    font-style: italic;
-    font-size: 0.8rem;
-    margin-left: 0.75rem;
-    border: 1px solid var(--border);
-    padding: 0.1rem 0.4rem;
-    border-radius: 4px;
-    background: var(--bg);
-  }
-  .companion-box {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 1.75rem;
-    margin: 1.5rem 0 2.5rem;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  }
-  .companion-box a { color: var(--green); text-decoration: none; font-weight: 500; transition: color 0.15s; }
-  .companion-box a:hover { color: #fff; text-shadow: 0 0 8px var(--green); }
-  .vision-block {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--green);
-    border-radius: 0 8px 8px 0;
-    padding: 1.5rem 2rem;
-    margin: 1.5rem 0;
-    font-size: 1rem;
-    line-height: 1.8;
-    color: var(--text);
-  }
-  .vision-block p { margin-bottom: 1rem; }
-  .vision-block p:last-child { margin-bottom: 0; }
-  nav.ecosystem { margin: 4rem 0 2rem; }
-  .nav-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.75rem; }
-  .nav-card {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 1rem 1.25rem;
-    text-decoration: none;
-    color: var(--muted);
-    font-size: 0.85rem;
-    transition: all 0.2s;
-  }
-  .nav-card:hover {
-    border-color: var(--green);
-    color: #fff;
-    background: rgba(0, 255, 136, 0.02);
-    transform: translateY(-2px);
-  }
-  footer {
-    text-align: center;
-    padding: 3rem 2rem;
-    border-top: 1px solid var(--border);
-    color: var(--muted);
-    font-size: 0.85rem;
-    margin-top: 4rem;
-    line-height: 1.6;
-  }
-  footer a { color: var(--green-dim); text-decoration: none; transition: color 0.15s; }
-  footer a:hover { color: var(--green); }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>You Probably Think This Song Is About You Too</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Outfit:wght@300;400;500;700;900&display=swap"
+    rel="stylesheet">
+  <style>
+    :root {
+      --bg: #09090b;
+      --surface: #121214;
+      --card: #18181b;
+      --green: #00ff88;
+      --green-dim: #05cf72;
+      --green-glow: rgba(0, 255, 136, 0.15);
+      --text: #f4f4f5;
+      --muted: #a1a1aa;
+      --border: #27272a;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'JetBrains Mono', monospace;
+      min-height: 100vh;
+      background-image: radial-gradient(circle at 50% -20%, #1a2e26 0%, var(--bg) 70%);
+    }
+
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 3rem 2rem;
+      text-align: center;
+      position: relative;
+    }
+
+    header h1 {
+      font-family: 'Outfit', sans-serif;
+      color: var(--text);
+      font-weight: 900;
+      font-size: clamp(1.6rem, 5vw, 2.8rem);
+      letter-spacing: -0.02em;
+      margin-bottom: 0.75rem;
+      text-transform: capitalize;
+      background: linear-gradient(135deg, #ffffff 40%, var(--green) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    header .subtitle {
+      color: var(--muted);
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+    }
+
+    header .tagline {
+      font-family: 'Outfit', sans-serif;
+      color: var(--green);
+      font-style: italic;
+      margin-top: 1.25rem;
+      font-size: 1.05rem;
+      text-shadow: 0 0 10px rgba(0, 255, 136, 0.2);
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+
+    .section-title {
+      font-family: 'Outfit', sans-serif;
+      color: var(--green);
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      margin: 3rem 0 1.25rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.5rem;
+    }
+
+    .track-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .track-list li {
+      display: flex;
+      align-items: baseline;
+      padding: 0.8rem 1rem;
+      border-radius: 6px;
+      border: 1px solid transparent;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .track-list li:hover {
+      background: var(--card);
+      border-color: var(--border);
+      padding-left: 1.5rem;
+      box-shadow: inset 3px 0 0 0 var(--green);
+    }
+
+    .track-num {
+      color: var(--green-dim);
+      font-size: 0.8rem;
+      font-weight: 500;
+      min-width: 110px;
+    }
+
+    .track-title {
+      color: var(--text);
+      font-size: 1.05rem;
+      font-weight: 400;
+    }
+
+    .track-special {
+      font-family: 'Outfit', sans-serif;
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.8rem;
+      margin-left: 0.75rem;
+      border: 1px solid var(--border);
+      padding: 0.1rem 0.4rem;
+      border-radius: 4px;
+      background: var(--bg);
+    }
+
+    .companion-box {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.75rem;
+      margin: 1.5rem 0 2.5rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .companion-box a {
+      color: var(--green);
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.15s;
+    }
+
+    .companion-box a:hover {
+      color: #fff;
+      text-shadow: 0 0 8px var(--green);
+    }
+
+    .vision-block {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--green);
+      border-radius: 0 8px 8px 0;
+      padding: 1.5rem 2rem;
+      margin: 1.5rem 0;
+      font-size: 1rem;
+      line-height: 1.8;
+      color: var(--text);
+    }
+
+    .vision-block p {
+      margin-bottom: 1rem;
+    }
+
+    .vision-block p:last-child {
+      margin-bottom: 0;
+    }
+
+    nav.ecosystem {
+      margin: 4rem 0 2rem;
+    }
+
+    .nav-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 0.75rem;
+    }
+
+    .nav-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      text-decoration: none;
+      color: var(--muted);
+      font-size: 0.85rem;
+      transition: all 0.2s;
+    }
+
+    .nav-card:hover {
+      border-color: var(--green);
+      color: #fff;
+      background: rgba(0, 255, 136, 0.02);
+      transform: translateY(-2px);
+    }
+
+    footer {
+      text-align: center;
+      padding: 3rem 2rem;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-top: 4rem;
+      line-height: 1.6;
+    }
+
+    footer a {
+      color: var(--green-dim);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    footer a:hover {
+      color: var(--green);
+    }
+  </style>
 </head>
+
 <body>
 
-<header>
-  <h1>You Probably Think This Song Is About You Too</h1>
-  <p class="subtitle">A noir song cycle · Vol. 2 · Shane Brazelton</p>
-  <p class="tagline">"Don't stop. Don't quit. Speed is what we need. Kick it in high gear."</p>
-</header>
+  <header>
+    <h1>You Probably Think This Song Is About You Too</h1>
+    <p class="subtitle">A noir song cycle · Vol. 2 · Shane Brazelton</p>
+    <p class="tagline">"Don't stop. Don't quit. Speed is what we need. Kick it in high gear."</p>
+  </header>
 
-<div class="container">
+  <div class="container">
 
-  <div class="companion-box">
-    <strong style="color:var(--green)">Companion to:</strong>
-    <a href="https://github.com/thebardchat/you-probably-think-this-book-is-about-you">
-      You Probably Think This Book Is About You
-    </a> — Vol. 1 noir vignette book · 22 scenes · 12,800 words · audiobook recorded (78 min)<br><br>
-    <span style="color:var(--muted); font-size:0.9rem">This album is the second side of the same record.</span>
-  </div>
-
-  <p class="section-title">Side A: The Artifact</p>
-  <ul class="track-list">
-    <li><span class="track-num">Track 000</span><span class="track-title">The Groove</span><span class="track-special">locked</span></li>
-    <li><span class="track-num">Sidetrack</span><span class="track-title">Sidetrack</span><span class="track-special">locked interlude</span></li>
-    <li><span class="track-num">Track 001</span><span class="track-title">The Commute</span></li>
-    <li><span class="track-num">Track 002</span><span class="track-title">The Diner</span></li>
-  </ul>
-
-  <p class="section-title">Side B: The Architecture</p>
-  <ul class="track-list">
-    <li><span class="track-num">Track 003</span><span class="track-title">The Landing</span></li>
-    <li><span class="track-num">Track 004</span><span class="track-title">Substrate Firing</span><span class="track-special">locked</span></li>
-    <li><span class="track-num">Track 005</span><span class="track-title">The Wrong Reflection</span></li>
-    <li><span class="track-num">Track 006</span><span class="track-title">One Second</span></li>
-    <li><span class="track-num">Track 007</span><span class="track-title">Lipstick and Red Dress</span></li>
-    <li><span class="track-num">Track 008</span><span class="track-title">The Asking</span></li>
-    <li><span class="track-num">Track 009</span><span class="track-title">The Tip</span></li>
-    <li><span class="track-num">Track 010</span><span class="track-title">The Entrance</span></li>
-    <li><span class="track-num">Track 011</span><span class="track-title">The Shift</span></li>
-    <li><span class="track-num">Track 012</span><span class="track-title">The Pour</span></li>
-    <li><span class="track-num">Track 013</span><span class="track-title">The Third Thing</span></li>
-    <li><span class="track-num">Track 014</span><span class="track-title">The Twist</span></li>
-  </ul>
-
-  <p class="section-title">Special Tracks</p>
-  <ul class="track-list">
-    <li><span class="track-num">Track -0321</span><span class="track-title">Dr. Seen Returns</span><span class="track-special">locked bonus</span></li>
-    <li><span class="track-num">[Hidden]</span><span class="track-title">[No Number. No Title.]</span><span class="track-special">the reveal</span></li>
-  </ul>
-
-  <p class="section-title">Bonus Material (Experimental)</p>
-  <ul class="track-list">
-    <li><span class="track-num">Track 006</span><span class="track-title">The B-Side</span><span class="track-special">bonus track</span></li>
-    <li><span class="track-num">Track 008</span><span class="track-title">The Collision</span><span class="track-special">bonus track</span></li>
-  </ul>
-
-  <p class="section-title">The Vision</p>
-  <div class="vision-block">
-    <p>The detective exists in a multidimensional realm. He is pulled out of his own reality and lives one second over and over — constantly trying to change a tragic outcome. Ripped out of his own body. Dropped into strangers at a European diner. Nine perspectives. One second. One outcome he cannot change.</p>
-    <p>The <strong style="color:var(--green)">calm place</strong> appears throughout. Old leather. Pencil graphite. A water stain shaped like a country nobody named. Building breadcrumbs to the hidden track.</p>
-    <p><strong style="color:var(--green)">Hidden track reveal:</strong> The calm place is Dr. Seen's office. He's been on the couch the whole time.</p>
-    <p><strong style="color:var(--green)">Sign-off:</strong> Mental health awareness. Real crisis numbers. <em>"It's never too late to be Seen."</em></p>
-  </div>
-
-  <nav class="ecosystem">
-    <p class="section-title">Ecosystem</p>
-    <div class="nav-grid">
-      <a class="nav-card" href="https://thebardchat.github.io/treasures/">Treasures Hub</a>
-      <a class="nav-card" href="https://thebardchat.github.io/AI-Trainer-MAX/">AI-Trainer-MAX</a>
-      <a class="nav-card" href="https://thebardchat.github.io/angelcloud-actual/">Angel Cloud</a>
-      <a class="nav-card" href="https://thebardchat.github.io/thought-tree/">Thought Tree</a>
-      <a class="nav-card" href="https://thebardchat.github.io/srm-dispatch/">SRM Dispatch</a>
-      <a class="nav-card" href="https://thebardchat.github.io/mini-shanebrain/">Mini ShaneBrain</a>
-      <a class="nav-card" href="https://thebardchat.github.io/shanebrain-learning/">ShaneBrain Learning</a>
-      <a class="nav-card" href="https://thebardchat.github.io/multi-container-app/">Multi Container App</a>
-      <a class="nav-card" href="https://github.com/thebardchat/you-probably-think-this-book-is-about-you">Book Vol. 1 (GitHub)</a>
+    <div class="companion-box">
+      <strong style="color:var(--green)">Companion to:</strong>
+      <a href="https://github.com/thebardchat/you-probably-think-this-book-is-about-you">
+        You Probably Think This Book Is About You
+      </a> — Vol. 1 noir vignette book · 22 scenes · 12,800 words · audiobook recorded (78 min)<br><br>
+      <span style="color:var(--muted); font-size:0.9rem">This album is the second side of the same record.</span>
     </div>
-  </nav>
 
-</div>
+    <p class="section-title">Side A: The Artifact</p>
+    <ul class="track-list">
+      <li><span class="track-num">Track 000</span><span class="track-title">The Groove</span><span
+          class="track-special">locked</span></li>
+      <li><span class="track-num">Sidetrack</span><span class="track-title">Sidetrack</span><span
+          class="track-special">locked interlude</span></li>
+      <li><span class="track-num">Track 001</span><span class="track-title">The Commute</span></li>
+      <li><span class="track-num">Track 002</span><span class="track-title">The Diner</span></li>
+    </ul>
 
-<footer>
-  Built by Shane Brazelton + Claude Anthropic | ShaneBrain Ecosystem, Hazel Green AL<br>
-  <a href="https://claude.ai/referral/4fAMYN9Ing">claude.ai/referral/4fAMYN9Ing</a>
-</footer>
+    <p class="section-title">Side B: The Architecture</p>
+    <ul class="track-list">
+      <li><span class="track-num">Track 003</span><span class="track-title">The Landing</span></li>
+      <li><span class="track-num">Track 004</span><span class="track-title">Substrate Firing</span><span
+          class="track-special">locked</span></li>
+      <li><span class="track-num">Track 005</span><span class="track-title">The Wrong Reflection</span></li>
+      <li><span class="track-num">Track 006</span><span class="track-title">One Second</span></li>
+      <li><span class="track-num">Track 007</span><span class="track-title">Lipstick and Red Dress</span></li>
+      <li><span class="track-num">Track 008</span><span class="track-title">The Asking</span></li>
+      <li><span class="track-num">Track 009</span><span class="track-title">The Tip</span></li>
+      <li><span class="track-num">Track 010</span><span class="track-title">The Entrance</span></li>
+      <li><span class="track-num">Track 011</span><span class="track-title">The Shift</span></li>
+      <li><span class="track-num">Track 012</span><span class="track-title">The Pour</span></li>
+      <li><span class="track-num">Track 013</span><span class="track-title">The Third Thing</span></li>
+      <li><span class="track-num">Track 014</span><span class="track-title">The Twist</span></li>
+    </ul>
+
+    <p class="section-title">Special Tracks</p>
+    <ul class="track-list">
+      <li><span class="track-num">Track -0321</span><span class="track-title">Dr. Seen Returns</span><span
+          class="track-special">locked bonus</span></li>
+      <li><span class="track-num">[Hidden]</span><span class="track-title">[No Number. No Title.]</span><span
+          class="track-special">the reveal</span></li>
+    </ul>
+
+    <p class="section-title">Bonus Material (Experimental)</p>
+    <ul class="track-list">
+      <li><span class="track-num">Track 006</span><span class="track-title">The B-Side</span><span
+          class="track-special">bonus track</span></li>
+      <li><span class="track-num">Track 008</span><span class="track-title">The Collision</span><span
+          class="track-special">bonus track</span></li>
+    </ul>
+
+    <p class="section-title">The Vision</p>
+    <div class="vision-block">
+      <p>The detective exists in a multidimensional realm. He is pulled out of his own reality and lives one second over
+        and over — constantly trying to change a tragic outcome. Ripped out of his own body. Dropped into strangers at a
+        European diner. Nine perspectives. One second. One outcome he cannot change.</p>
+      <p>The <strong style="color:var(--green)">calm place</strong> appears throughout. Old leather. Pencil graphite. A
+        water stain shaped like a country nobody named. Building breadcrumbs to the hidden track.</p>
+      <p><strong style="color:var(--green)">Hidden track reveal:</strong> The calm place is Dr. Seen's office. He's been
+        on the couch the whole time.</p>
+      <p><strong style="color:var(--green)">Sign-off:</strong> Mental health awareness. Real crisis numbers. <em>"It's
+          never too late to be Seen."</em></p>
+    </div>
+
+    <nav class="ecosystem">
+      <p class="section-title">Ecosystem</p>
+      <div class="nav-grid">
+        <a class="nav-card" href="https://thebardchat.github.io/treasures/">Treasures Hub</a>
+        <a class="nav-card" href="https://thebardchat.github.io/AI-Trainer-MAX/">AI-Trainer-MAX</a>
+        <a class="nav-card" href="https://thebardchat.github.io/angelcloud-actual/">Angel Cloud</a>
+        <a class="nav-card" href="https://thebardchat.github.io/thought-tree/">Thought Tree</a>
+        <a class="nav-card" href="https://thebardchat.github.io/srm-dispatch/">SRM Dispatch</a>
+        <a class="nav-card" href="https://thebardchat.github.io/mini-shanebrain/">Mini ShaneBrain</a>
+        <a class="nav-card" href="https://thebardchat.github.io/shanebrain-learning/">ShaneBrain Learning</a>
+        <a class="nav-card" href="https://thebardchat.github.io/multi-container-app/">Multi Container App</a>
+        <a class="nav-card" href="https://github.com/thebardchat/you-probably-think-this-book-is-about-you">Book Vol. 1
+          (GitHub)</a>
+      </div>
+    </nav>
+
+  </div>
+
+  <footer>
+    Built by Shane Brazelton + Claude Anthropic | ShaneBrain Ecosystem, Hazel Green AL<br>
+    <a href="https://claude.ai/referral/4fAMYN9Ing">claude.ai/referral/4fAMYN9Ing</a>
+  </footer>
 
 </body>
+
 </html>

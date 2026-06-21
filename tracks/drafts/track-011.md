@@ -57,47 +57,23 @@ She worked at the place two doors down — small, the kind that played jazz that
 
 *"The usual."*
 
-The usual was four blocks away. The industry bar. The bar where the waiters and the bartenders and the cooks and the hosts and the dishwashers went after their shifts to drink at the prices that civilians paid at their restaurants, which meant cheap, which meant fast, which meant the night had a velocity that started at the first drink and didn't slow down until the street turned sideways.
-
----
-
-The walk to the industry bar collected people the way a snowball collects snow.
-
-The wine bar bartender — the one who poured slow and talked fast and had opinions about natural wine that he delivered with the conviction of a man who had confused preference with personality. He joined at the corner.
-
-The hotel one — the one with the Michelin ambition and the health code and the gap between the two was where patience went to die every night. She was already there when they arrived. She'd been there since 10:30. She had a head start and the head start showed.
-
-The cook. Not from the diner — from somewhere else, somewhere that closed earlier, somewhere that served the kind of food the cook called *honest* and the food critics called *rustic* and the distinction was the distance between rent and dream. The cook didn't talk much. The cook drank with the quiet efficiency of a man who had been on his feet for fourteen hours and needed the drink the way a car needs petrol — not for pleasure, for function.
+The usual was the industry bar, four blocks away. Cheap, fast, carrying a velocity that didn't slow down until the street turned sideways. The walk collected people like a snowball. The wine bar bartender, who confused preference with personality, joined at the corner. The hotel host, whose Michelin ambition was where patience went to die, was already at the table. Then the cook from the place down the road, who drank with the quiet efficiency of a man who had been on his feet for fourteen hours and needed fuel, not pleasure.
 
 They took over the back table. They always took over the back table. The back table at the industry bar was the industry table the way the terrace at the diner was the tourist table — claimed, understood, defended without discussion.
 
 ---
 
-The drinking started the way industry drinking starts — with the shift.
+The drinking started with the shift. *Can you believe table nine? Can you believe the ticket at 9:47 when the kitchen was already down? Someone wanted the fish refired, but not the way the fish comes. The other way. The way the fish has never come.* Shift stories burned through the glasses like fuel. The warm-up.
 
-*Can you believe table nine? Can you believe the woman at the bar? Can you believe the ticket that came in at 9:47 when the kitchen was already breaking down and the cook had to — tell them — he had to refire the whole station because someone wanted the fish but not the way the fish comes, the other way, the way the fish doesn't come, the way the fish has never come, the way the fish will never come because the fish is the fish and it comes the way it comes and if you want it the other way go to the other place.*
+The real drinking started when the shift stories ran out, the table went quiet, and someone asked the question nobody wanted to answer: *"So what are we actually doing with our lives?"*
 
-This lasted an hour. Maybe two. The shift stories burned through the drinks the way fuel burns through an engine — hot, fast, necessary, producing forward motion but no distance. Nobody went anywhere. The shift stories were the warm-up. The real drinking hadn't started yet.
-
-The real drinking started when the shift stories ran out and the table got quiet and someone — the wine bar woman, probably, it was usually her — said the thing that cracked the evening open:
-
-*"So what are we actually doing with our lives?"*
-
-Nobody answered. Everybody drank. That was the answer.
+Everybody drank. That was the answer.
 
 ---
 
-The night turned the way nights turn in industry circles — from talk to noise to movement. The industry bar became somewhere else. The somewhere else became another somewhere else. The streets blurred. The group expanded and contracted like a lung — people arriving, people leaving, people you knew and people you'd know by the end of the night and forget by the morning.
+The streets blurred. The group expanded and contracted like a lung. The waiter stayed at the center—reading the room, riding the energy, anticipating the crash that hadn't come yet. Someone had the other thing. The thing from the pocket that comes out in the bathroom of the third bar, turning midnight into a suggestion.
 
-The waiter was at the center of it. Not because he chose to be — because the center was where the waiter lived. The same skill that made him good at the terrace made him good at the night: reading the room, anticipating the need, placing himself at the exact point where the energy was highest and riding it like a wave that he knew would crash but hadn't crashed yet and the not-yet was the whole game.
-
-Someone had something. Not a drink — the other thing. The thing that lives in the pocket and comes out in the bathroom of the second bar or the third bar or the alley between the second and the third. The thing that turns midnight into a suggestion rather than a fact. The thing that makes the jaw tight and the eyes wide and the conversation faster than the thoughts behind it and the thoughts don't mind because the thoughts were never really in charge.
-
-The waiter partook.
-
-He always partook.
-
-He partook the way he drank — with the professional efficiency of a man who had learned to poison himself on a schedule that allowed for a 10 AM shift the next day. Not too much. Just enough. Just enough to keep the night from becoming morning, to hold the dark in place, to convince the clock that 3 AM was not 3 AM but rather a different, more negotiable version of time that the body and the city had agreed to in the unwritten contract of being twenty-seven and alive and employed in an industry that runs on the fuel of people who haven't figured out yet that the fuel is them.
+The waiter partook. Just enough to hold the dark in place, to convince the clock that 3 AM was negotiable. The unwritten contract of being twenty-seven and alive, working in an industry that runs on the fuel of people who haven't realized yet that they are the fuel.
 
 ---
 
@@ -167,17 +143,7 @@ Three minutes before the alarm that wasn't an alarm. His body delivered him to c
 
 The headache was still there. Not the construction crew anymore — the building. The finished product. The permanent structure that had been erected behind his left eye while he slept and was now accepting tenants.
 
-He didn't shower.
-
-He should have showered. He knew he should have showered the way you know you should call your mother or fix the chair or read the book on the nightstand that has been on the nightstand so long it has become the nightstand. The knowing was there. The doing was somewhere else. The doing was at the industry bar with the shift stories and the thing from the pocket and the part of the night the memory had redacted.
-
-He put on the white shirt. It was on the floor near the bag. Not in the bag — near the bag. The distinction mattered because in the bag meant he'd planned ahead and near the bag meant the bag had been too far from the hand when the hand dropped the shirt and the hand had made its decision and the shirt had accepted the floor.
-
-He smelled it.
-
-Acceptable. The specific acceptability of a shirt that had been worn once and slept near a bag on a floor in a flat that faced a wall. Not clean. Not dirty. The liminal space between the two where industry people live because the distance between shifts is not long enough for laundry and the body adapts and the nose forgives and the terrace is outside anyway and the wind handles what the washing machine should have.
-
-The black apron. The trainers — same ones. He didn't have work shoes. He had trainers and the trainers were his work shoes and his going-out shoes and his six-flights shoes and his stepping-over-the-bum shoes. One pair of shoes for one life.
+He didn't shower. He put on the white shirt from the floor near his bag. He smelled it. Acceptable—the liminal cleanliness of a shift shirt in a flat that faced a brick wall. The wind on the terrace would handle whatever the washing machine hadn't. Black apron. Trainers—same ones. One pair of shoes for the shift, the night out, the six flights, and the alcove. One pair of shoes for one life.
 
 ---
 
@@ -213,17 +179,7 @@ Every step on the terrace sent something through his skull. Every tray was heavi
 
 He worked the terrace. The outside tables. The brick-and-borrowed-alley section where the light was soft and the tips were better. The waitress worked the inside. The bartender worked the bar. The three of them in the same diner, in the same system, in the same air — and none of them knowing that they were inside the same second, the same groove.
 
-The waitress hated him.
-
-He knew this. Not personally — professionally. She hated his section the way a person hates the weather on someone else's vacation. The terrace tipped better. The terrace had the light. The terrace had the tourists who were generous because the setting made them feel European and feeling European made people tip the way Europeans think Americans tip. The inside had the locals and the locals knew the prices and the locals tipped like locals.
-
-He didn't choose the terrace. The terrace was assigned. The owner gave him the terrace because The waiter was smooth and the tourists liked smooth and the tourists were the margin and the margin was the owner's language.
-
-The bartender poured his drinks first.
-
-He knew this too. The bartender poured his drinks first because the terrace tickets came with urgency — the terrace was visible, the terrace was the show, the terrace was the thing people photographed and posted and the photographs and posts brought more people to the terrace and the people brought more tickets and the tickets needed drinks and the drinks needed to arrive before the tourists lost the feeling of being European and started feeling like people who were waiting too long for a drink.
-
-The bartender poured his drinks first and the waitress's tickets sat. He didn't ask for this. He didn't orchestrate it. But he benefited from it and the benefiting was enough to be guilty of something even if the something didn't have a name.
+The waitress hated him. Professionally. The terrace had the light, the tourists who tipped because the setting made them feel European, while the inside had the locals who knew the math. He hadn't chosen the terrace; the owner assigned it because he was smooth, and smooth was the margin. The bartender poured his drinks first because the terrace was the show, and the tickets couldn't wait. He hadn't asked for the privilege, but he benefited, which was enough to be guilty of something.
 
 ---
 

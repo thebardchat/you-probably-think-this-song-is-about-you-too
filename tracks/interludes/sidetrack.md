@@ -43,9 +43,7 @@ Same thing.
 
 Every sidetrack is an arrival if you stay on it long enough.
 
----
-
-So here you are. Sidetracked into an album you didn't know existed five minutes ago. An album that calls its chapters *tracks* and its pages *sides* and its silences *grooves* and its distractions —
+So here you are. Sidetracked on the way to the other side of the record. An album that calls its chapters *tracks* and its pages *sides* and its silences *grooves* and its distractions —
 
 Well.
 
@@ -59,7 +57,7 @@ Not the front door — nobody important comes through the front door. The grand 
 
 *You were going to skip this, weren't you?*
 
-*You were going to go straight to Track 001.*
+*You were going to go straight to Side B.*
 
 *But you didn't.*
 
@@ -84,4 +82,4 @@ Play it from the top.
 ---
 
 ## Liner Notes
-"Sidetrack" is the album's grand entrance disguised as a detour. Shane said the word by accident — got sidetracked mid-conversation and realized the word *was* the thing. An interlude that sneaks in sideways but announces itself like it owns the stage. It plays with every meaning: the side of a record, the track on the album, the distraction that turns out to be the destination. It pulls images from Track 001 (the hardware store, the historical marker, the geese, the conscience thought) and reframes them as proof that sidetracks are where the real album lives. Structurally it sits between Track 000 (the needle drop) and Track 001 (the first real song) — the grand entrance through the side door. The detective's whole Volume One arc gets recast: the case, the doctor, the file — all sidetracks. All arrivals. The "play it from the top" ending loops back to 000. The album hasn't started yet. The album has always been playing.
+"Sidetrack" is the album's grand entrance disguised as a detour. Shane said the word by accident — got sidetracked mid-conversation and realized the word *was* the thing. An interlude that sneaks in sideways but announces itself like it owns the stage. It plays with every meaning: the side of a record, the track on the album, the distraction that turns out to be the destination. It pulls images from Track 001 (the hardware store, the historical marker, the geese, the conscience thought) and reframes them as proof that sidetracks are where the real album lives. Structurally it sits between Side A and Side B — acting as the transition interlude between the two sides. The detective's whole Volume One arc gets recast: the case, the doctor, the file — all sidetracks. All arrivals. The "play it from the top" ending loops back to 000. The album hasn't started yet. The album has always been playing.

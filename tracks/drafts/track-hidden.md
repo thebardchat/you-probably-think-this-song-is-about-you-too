@@ -63,6 +63,8 @@ The needle caught.
 
 Couch.
 
+Another Wednesday. Another session. Same room, same ceiling, same silence, but a different week.
+
 His back. His weight pressing the cushion into the shape it had memorized over months of Wednesdays. His hands — confirmed. His knuckles. The ache that belonged to him and no one else, the one that came from gripping his own wheel on his own road in his own weather.
 
 The ceiling. The water stain. The country with no name.
