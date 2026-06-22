@@ -83,7 +83,7 @@ def main():
         ""
     ]
     
-    for filepath, title_override, prefix in TRACK_LIST:
+    for i, (filepath, title_override, prefix) in enumerate(TRACK_LIST):
         print(f"Parsing {filepath}...")
         lyrics = extract_lyrics(filepath)
         
@@ -98,42 +98,18 @@ def main():
             output_lines.append("")
             
         output_lines.append(lyrics)
-        output_lines.append("")
-        output_lines.append("---")
-        output_lines.append("")
         
-    # The last track ends with '---' which is followed by the sign-off, helplines, etc.
-    # Let's check how the ending is constructed in draft-002.md
-    # We will read the end of draft-002.md or just append it manually.
-    # Let's see what is after the hidden track in draft-002.md
-    # Actually, the ending contains the seen sign-off, suicide lifeline, and credits.
-    # Let's write them.
-    output_lines.append("&nbsp;")
-    output_lines.append("")
-    output_lines.append("---")
-    output_lines.append("")
-    output_lines.append("&nbsp;")
+        # Add transition markers between tracks (but not after the last track)
+        if i < len(TRACK_LIST) - 1:
+            output_lines.append("")
+            output_lines.append("&nbsp;")
+            output_lines.append("")
+            output_lines.append("---")
+            output_lines.append("")
+            
+    # Add Credit section at the end of the manuscript
     output_lines.append("")
     output_lines.append("&nbsp;")
-    output_lines.append("")
-    output_lines.append("&nbsp;")
-    output_lines.append("")
-    output_lines.append("It's never too late to be Seen.")
-    output_lines.append("")
-    output_lines.append("&nbsp;")
-    output_lines.append("")
-    output_lines.append("**988** — Suicide & Crisis Lifeline (call or text, 24/7)")
-    output_lines.append("**741741** — Crisis Text Line (text HOME)")
-    output_lines.append("**1-800-662-4357** — SAMHSA National Helpline")
-    output_lines.append("")
-    output_lines.append("&nbsp;")
-    output_lines.append("")
-    output_lines.append("*The door has a handle on your side.*")
-    output_lines.append("")
-    output_lines.append("&nbsp;")
-    output_lines.append("")
-    output_lines.append("---")
-    output_lines.append("")
     output_lines.append("")
     output_lines.append("---")
     output_lines.append("")
@@ -151,6 +127,49 @@ def main():
         f.write(output_content)
         
     print("Compilation complete: compiled/draft-006.md")
+    
+    # Run pandoc conversions automatically
+    import subprocess
+    
+    pandoc_paths = [
+        os.path.join("compiled", "pandoc-bin", "pandoc-3.1.12.3", "pandoc.exe"),
+        "pandoc"  # Fallback to system path
+    ]
+    
+    pandoc_bin = None
+    for path in pandoc_paths:
+        try:
+            subprocess.run([path, "--version"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+            pandoc_bin = path
+            break
+        except Exception:
+            continue
+            
+    if pandoc_bin:
+        print(f"Using pandoc at: {pandoc_bin}")
+        epub_out = "compiled/You_Probably_Think_This_Song_Is_About_You_Too.epub"
+        docx_out = "compiled/You_Probably_Think_This_Song_Is_About_You_Too.docx"
+        
+        metadata_opts = [
+            "--metadata", "title=You Probably Think This Song Is About You Too",
+            "--metadata", "author=Shane Brazelton"
+        ]
+        
+        try:
+            print(f"Compiling EPUB: {epub_out}...")
+            subprocess.run([pandoc_bin, "compiled/draft-006.md", "-o", epub_out] + metadata_opts, check=True)
+            print("EPUB compilation successful.")
+        except Exception as e:
+            print(f"Failed to compile EPUB: {e}")
+            
+        try:
+            print(f"Compiling DOCX: {docx_out}...")
+            subprocess.run([pandoc_bin, "compiled/draft-006.md", "-o", docx_out] + metadata_opts, check=True)
+            print("DOCX compilation successful.")
+        except Exception as e:
+            print(f"Failed to compile DOCX: {e}")
+    else:
+        print("Pandoc not found. Skipping EPUB/DOCX compilation.")
 
 if __name__ == "__main__":
     main()

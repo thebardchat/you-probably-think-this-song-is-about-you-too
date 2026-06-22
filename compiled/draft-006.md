@@ -71,6 +71,8 @@ So.
 
 Let it drop.
 
+&nbsp;
+
 ---
 
 ### Track 001 — The Commute
@@ -157,6 +159,8 @@ He passes the gas stations he used to pull into every day. He doesn't stop anymo
 Today he's stopping somewhere else.
 
 The road knows where. The road has always known where. The detective just drives.
+
+&nbsp;
 
 ---
 
@@ -370,6 +374,8 @@ He always comes back down.
 
 *It was always about you. It was never only about you.*
 
+&nbsp;
+
 ---
 
 ### Sidetrack
@@ -446,6 +452,8 @@ He just got sidetracked on the way to telling you.
 ---
 
 Play it from the top.
+
+&nbsp;
 
 ---
 
@@ -581,6 +589,8 @@ The needle skips — catches — finds the groove again.
 
 Side B.
 
+&nbsp;
+
 ---
 
 ### Track 004 — Substrate Firing
@@ -686,6 +696,8 @@ The detective noticed it.
 
 He just couldn't hold it long enough to file it.
 
+&nbsp;
+
 ---
 
 ### Track 005 — The Wrong Reflection
@@ -790,6 +802,8 @@ Sat down anyway.
 Oh my goodness, he thought, for the second time.
 
 Oh my goodness.
+
+&nbsp;
 
 ---
 
@@ -923,6 +937,8 @@ One second.
 The needle doesn't move.
 
 The groove holds.
+
+&nbsp;
 
 ---
 
@@ -1134,6 +1150,8 @@ And the second was everyone's.
 And the second was no one's.
 
 And the red dress was Pepe's.
+
+&nbsp;
 
 ---
 
@@ -1375,6 +1393,8 @@ The groove holds everything.
 Even the things that didn't happen.
 
 Especially the things that didn't happen.
+
+&nbsp;
 
 ---
 
@@ -1633,6 +1653,8 @@ Even the ones who weren't watching.
 
 Especially the ones who weren't watching.
 
+&nbsp;
+
 ---
 
 ### Track 010 — The Entrance
@@ -1853,6 +1875,8 @@ The needle rides the groove.
 The groove holds the entrance.
 
 The entrance was always the best part.
+
+&nbsp;
 
 ---
 
@@ -2131,6 +2155,8 @@ The groove holds the waiter who erases the man he sleeps above.
 
 The groove holds everything.
 
+&nbsp;
+
 ---
 
 ### Track 012 — The Pour
@@ -2347,6 +2373,8 @@ The groove holds the eight euros.
 The groove holds everything.
 
 Even the things the hands were too busy to catch.
+
+&nbsp;
 
 ---
 
@@ -2717,6 +2745,8 @@ All holding.
 
 All still warm from the hand.
 
+&nbsp;
+
 ---
 
 ### Track 014 — The Twist
@@ -2975,6 +3005,8 @@ This one ended when the listener left the room.
 *The groove is still there.*
 
 *The groove is always still there.*
+
+&nbsp;
 
 ---
 
@@ -3277,6 +3309,8 @@ The doctor was the stillness across from him the whole time. The calm place was 
 The doctor does not say this because saying it would be the opposite of what the room does. The room holds. The room has always held. The room will hold again next Wednesday.
 
 *We sit with it.*
+
+&nbsp;
 
 ---
 
@@ -3594,34 +3628,7 @@ It's never too late to be Seen.
 
 &nbsp;
 
----
-
 &nbsp;
-
----
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-It's never too late to be Seen.
-
-&nbsp;
-
-**988** — Suicide & Crisis Lifeline (call or text, 24/7)
-**741741** — Crisis Text Line (text HOME)
-**1-800-662-4357** — SAMHSA National Helpline
-
-&nbsp;
-
-*The door has a handle on your side.*
-
-&nbsp;
-
----
-
 
 ---
 

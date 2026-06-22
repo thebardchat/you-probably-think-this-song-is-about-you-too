@@ -6,7 +6,6 @@
 *.m4a
 
 # Publishing formats
-*.epub
 *.pdf
 
 # TTS intermediates
@@ -20,3 +19,7 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Local binaries and helper scripts
+compiled/pandoc-bin/
+compiled/download_pandoc.py
