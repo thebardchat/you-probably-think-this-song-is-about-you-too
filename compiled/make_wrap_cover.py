@@ -33,8 +33,9 @@ BOT_Y = BLEED + TRIM_H
 FONT_DIR = "C:/Windows/Fonts"
 NIRMALA = "compiled/fonts/NirmalaUI.ttf"
 COVER_ART = "cover-ebook.jpg"
-OUT = "compiled/wrap-cover-6x9-template.pdf"
-GUIDES = True
+GUIDES = False   # True -> labeled layout template; False -> clean upload-shaped cover
+OUT = ("compiled/wrap-cover-6x9-template.pdf" if GUIDES
+       else "compiled/wrap-cover-6x9.pdf")
 
 BLURB = (
     "A dark, stylized noir thriller written by a dump-truck dispatcher on a "
