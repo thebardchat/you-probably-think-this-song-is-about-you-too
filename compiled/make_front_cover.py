@@ -8,11 +8,15 @@ subtitle, and author with proper letter-spacing and drop shadows.
 Run: python compiled/make_front_cover.py
 """
 import os
+import sys
 from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1600, 2560
-ART = "compiled/art/noir_raw.webp"
+ART = "compiled/art/art-turntable_seed11.webp"   # CHOSEN cover: vinyl turntable + smoke (Z-Image seed 11)
 OUT = "compiled/front-cover.jpg"
+# Optional CLI override: python make_front_cover.py <art_in> <jpg_out>
+if len(sys.argv) >= 3:
+    ART, OUT = sys.argv[1], sys.argv[2]
 FONT_DIR = "C:/Windows/Fonts"
 
 TITLE_FONT = os.path.join(FONT_DIR, "cambriab.ttf")     # elegant serif
