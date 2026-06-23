@@ -38,9 +38,13 @@ This document defines the standard operating procedure (SOP) for publishing Volu
      mirrored gutter margins (1.0" inside / 0.625" outside), Times New Roman 11pt justified, centered
      track headings, page numbers, embedded fonts incl. a Devanagari fallback, plus a title +
      copyright/front-matter page. ~161 pages. Always validate in KDP's online previewer before publishing.
-   * **Spine width (for the wrap cover):** at ~161 pages on white paper, spine ≈ 161 × 0.002252" ≈ **0.36"**.
-     The full-wrap cover (front + spine + back + 0.125" bleed) is a separate design asset — the eBook
-     `cover-ebook.jpg` is front-only and not a print wrap.
+   * **Wrap cover:** run `python compiled/make_wrap_cover.py` to generate
+     `compiled/wrap-cover-6x9-template.pdf` — a full-wrap **layout template** (12.613" x 9.25":
+     front + spine + back + 0.125" bleed) with trim/fold/safe guides, a barcode keep-out zone, spine
+     text, the back blurb, and `cover-ebook.jpg` placed as a front preview. Spine ≈ **0.363"** at 161
+     pages on white paper (161 × 0.002252"). This is a *template*, not finished art: the cyan guides
+     must be removed (regenerate with `GUIDES=False`) and the front art replaced with a real designed
+     cover before upload. If page count changes, update `PAGES` in the script so the spine stays exact.
    * **Alternative — manual:** open the compiled Word document: [You_Probably_Think_This_Song_Is_About_You_Too.docx](file:///c:/Users/Hubby/you-probably-think-this-song-is-about-you-too/you-probably-think-this-song-is-about-you-too/compiled/You_Probably_Think_This_Song_Is_About_You_Too.docx) in Microsoft Word.
    * **Formatting Checklist for Print PDF:**
      - Set page size to **6" x 9"** (standard trade paperback).
