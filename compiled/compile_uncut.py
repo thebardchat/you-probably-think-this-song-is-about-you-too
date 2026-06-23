@@ -152,12 +152,21 @@ def main():
         
         metadata_opts = [
             "--metadata", "title=You Probably Think This Song Is About You Too",
-            "--metadata", "author=Shane Brazelton"
+            "--metadata", "author=Shane Brazelton",
+            "--metadata", "lang=en-US"
         ]
-        
+
+        # Embed the portrait eBook cover (1600x2560) if present
+        cover_opts = []
+        cover_path = "cover-ebook.jpg"
+        if os.path.exists(cover_path):
+            cover_opts = ["--epub-cover-image=" + cover_path]
+        else:
+            print(f"WARNING: {cover_path} not found; EPUB will have no embedded cover.")
+
         try:
             print(f"Compiling EPUB: {epub_out}...")
-            subprocess.run([pandoc_bin, "compiled/draft-006.md", "-o", epub_out] + metadata_opts, check=True)
+            subprocess.run([pandoc_bin, "compiled/draft-006.md", "-o", epub_out] + metadata_opts + cover_opts, check=True)
             print("EPUB compilation successful.")
         except Exception as e:
             print(f"Failed to compile EPUB: {e}")

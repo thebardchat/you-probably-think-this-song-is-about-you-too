@@ -30,7 +30,7 @@ This document defines the standard operating procedure (SOP) for publishing Volu
 ### 2.1 Amazon KDP (Kindle & Paperback)
 1. **Kindle eBook:**
    * Upload the compiled EPUB: [You_Probably_Think_This_Song_Is_About_You_Too.epub](file:///c:/Users/Hubby/you-probably-think-this-song-is-about-you-too/you-probably-think-this-song-is-about-you-too/compiled/You_Probably_Think_This_Song_Is_About_You_Too.epub).
-   * Upload eBook cover: `cover-ebook.png` (or `.jpg`).
+   * Upload eBook cover: `cover-ebook.jpg` (1600 x 2560, 1.6:1 portrait — KDP spec). Also embedded inside the EPUB.
    * Set price matching Volume One ($2.99 or similar promotional price).
 2. **Paperback:**
    * Open the compiled Word document: [You_Probably_Think_This_Song_Is_About_You_Too.docx](file:///c:/Users/Hubby/you-probably-think-this-song-is-about-you-too/you-probably-think-this-song-is-about-you-too/compiled/You_Probably_Think_This_Song_Is_About_You_Too.docx) in Microsoft Word.
