@@ -23,3 +23,6 @@ Thumbs.db
 # Local binaries and helper scripts
 compiled/pandoc-bin/
 compiled/download_pandoc.py
+
+# Extracted system fonts (Microsoft — not redistributable; auto-extracted by make_print_pdf.py)
+compiled/fonts/

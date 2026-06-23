@@ -33,7 +33,15 @@ This document defines the standard operating procedure (SOP) for publishing Volu
    * Upload eBook cover: `cover-ebook.jpg` (1600 x 2560, 1.6:1 portrait — KDP spec). Also embedded inside the EPUB.
    * Set price matching Volume One ($2.99 or similar promotional price).
 2. **Paperback:**
-   * Open the compiled Word document: [You_Probably_Think_This_Song_Is_About_You_Too.docx](file:///c:/Users/Hubby/you-probably-think-this-song-is-about-you-too/you-probably-think-this-song-is-about-you-too/compiled/You_Probably_Think_This_Song_Is_About_You_Too.docx) in Microsoft Word.
+   * **Fastest path — generate the interior PDF directly:** run `python compiled/make_print_pdf.py`.
+     Produces `compiled/You_Probably_Think_This_Song_Is_About_You_Too_6x9_print.pdf` — 6x9 trim,
+     mirrored gutter margins (1.0" inside / 0.625" outside), Times New Roman 11pt justified, centered
+     track headings, page numbers, embedded fonts incl. a Devanagari fallback, plus a title +
+     copyright/front-matter page. ~161 pages. Always validate in KDP's online previewer before publishing.
+   * **Spine width (for the wrap cover):** at ~161 pages on white paper, spine ≈ 161 × 0.002252" ≈ **0.36"**.
+     The full-wrap cover (front + spine + back + 0.125" bleed) is a separate design asset — the eBook
+     `cover-ebook.jpg` is front-only and not a print wrap.
+   * **Alternative — manual:** open the compiled Word document: [You_Probably_Think_This_Song_Is_About_You_Too.docx](file:///c:/Users/Hubby/you-probably-think-this-song-is-about-you-too/you-probably-think-this-song-is-about-you-too/compiled/You_Probably_Think_This_Song_Is_About_You_Too.docx) in Microsoft Word.
    * **Formatting Checklist for Print PDF:**
      - Set page size to **6" x 9"** (standard trade paperback).
      - Set margins: **Top 1", Bottom 1", Left 1" (Gutter 0.125"), Right 0.875"** (adjust Gutter depending on page count, ~75 pages is standard).
