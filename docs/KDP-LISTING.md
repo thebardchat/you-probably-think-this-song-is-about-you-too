@@ -9,14 +9,26 @@ Upload files:
 
 ---
 
+## 0. Where to start (Volume One is already published)
+
+Volume Two is a **brand-new, separate title** with its own ASIN — *not* an edition of Volume One.
+
+1. Sign in to KDP → **Bookshelf**.
+2. Click **+ Create** (the "Create a New Title" button) → **Kindle eBook**.
+   - ⚠️ Do **NOT** click "Create Paperback/Hardcover" next to *Volume One* — that adds a print edition *of Volume One*. Vol. Two is its own new title.
+3. Fill in the Details (Section 1 below). Link the two books with the **Series** field (same series name, this = Book 2).
+4. After the Vol. Two **eBook** exists, its paperback is created from the link **next to the Vol. Two eBook** (Bookshelf → Vol. Two eBook → "+ Create Paperback") so the two editions stay linked — that comes after the ISBN step.
+
+---
+
 ## 1. Kindle eBook Details
 
 | Field | Value |
 |-------|-------|
 | Language | English |
 | Book Title | `You Probably Think This Song Is About You Too` |
-| Subtitle | `A Noir Song Cycle (Volume Two)` |
-| Series | `You Probably Think This Song Is About You` — *Book 2* (optional; link to Vol. 1 if it's on KDP) |
+| Subtitle | `A Noir Song Cycle` — keep "Volume Two" OUT of the subtitle; the **Series field** carries it (KDP flags volume info duplicated in title/subtitle). Mirror whatever style Vol. 1 used. |
+| Series | Use the **same series name you set on Volume One**, as **Book 2**. If Vol. 1 has no series yet: create it here, then Bookshelf → Vol. 1 → Edit details → add the identical series name so they link. |
 | Edition number | `1` |
 | Author (Primary) | `Shane Brazelton` |
 | Contributor | `Claude (Anthropic)` — role: *Contributor* or leave off (your call) |
