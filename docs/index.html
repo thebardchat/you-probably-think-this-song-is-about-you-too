@@ -81,6 +81,18 @@
     box-shadow:0 10px 30px -10px rgba(200,130,60,.6)}
   .btn.ghost{border-color:var(--border);color:var(--muted)}
   .btn.ghost:hover{border-color:var(--bone);color:var(--bone)}
+
+  /* ── TRAILER MODAL ── (backdrop is semi-transparent so the noir bg video shows behind) */
+  .trailer-modal{position:fixed;inset:0;z-index:200;display:none;place-items:center;
+    background:rgba(4,4,5,.86);backdrop-filter:blur(4px);padding:clamp(1rem,4vw,3rem)}
+  .trailer-modal.open{display:grid}
+  .trailer-modal video{width:min(94vw,940px);max-height:86vh;height:auto;display:block;border-radius:6px;
+    box-shadow:0 40px 100px -20px #000,0 0 80px -24px rgba(200,130,60,.4);border:1px solid #241d14;background:#000}
+  .trailer-close{position:absolute;top:clamp(.8rem,3vw,1.6rem);right:clamp(.8rem,3vw,1.6rem);
+    width:46px;height:46px;border-radius:50%;border:1px solid var(--border);background:rgba(10,10,11,.85);
+    color:var(--bone);font-family:var(--mono);font-size:1.3rem;line-height:1;cursor:pointer;
+    display:grid;place-items:center;transition:all .2s}
+  .trailer-close:hover{border-color:var(--amber);color:var(--amber-br)}
   .hero-cover{justify-self:center}
   .hero-cover img{display:block;width:min(310px,74vw);height:auto;border-radius:5px;
     box-shadow:0 40px 80px -24px #000,0 0 60px -20px rgba(200,130,60,.5);
@@ -192,6 +204,7 @@
       <p class="tagline">"Don't stop. Don't quit. Speed is what we need. Kick it in high gear."</p>
       <div class="cta-row">
         <a class="btn primary" href="https://a.co/d/0fZzwiAd" target="_blank" rel="noopener">♪ Read it on Amazon</a>
+        <button type="button" class="btn ghost" id="trailerBtn" aria-haspopup="dialog">▶ Watch the trailer</button>
         <a class="btn ghost" href="#story">The story ↓</a>
       </div>
     </div>
@@ -338,6 +351,30 @@
     ShaneBrain Ecosystem · Hazel Green, Alabama · <span class="amber">It's never too late to be Seen.</span>
   </p>
 </footer>
+
+<!-- ══ TRAILER MODAL ══ -->
+<div class="trailer-modal" id="trailerModal" role="dialog" aria-modal="true" aria-label="Volume Two trailer">
+  <button type="button" class="trailer-close" id="trailerClose" aria-label="Close trailer">✕</button>
+  <video id="trailerVideo" controls playsinline preload="none" poster="promo/trailer-poster.jpg">
+    <source src="promo/trailer.mp4" type="video/mp4">
+  </video>
+</div>
+
+<script>
+(() => {
+  const btn=document.getElementById('trailerBtn'), modal=document.getElementById('trailerModal'),
+        close=document.getElementById('trailerClose'), vid=document.getElementById('trailerVideo');
+  if(!btn||!modal) return;
+  const open=()=>{ modal.classList.add('open'); document.body.style.overflow='hidden';
+    try{ vid.currentTime=0; vid.play(); }catch(e){} close.focus(); };
+  const shut=()=>{ modal.classList.remove('open'); document.body.style.overflow='';
+    try{ vid.pause(); }catch(e){} btn.focus(); };
+  btn.addEventListener('click', open);
+  close.addEventListener('click', shut);
+  modal.addEventListener('click', e=>{ if(e.target===modal) shut(); });
+  addEventListener('keydown', e=>{ if(e.key==='Escape' && modal.classList.contains('open')) shut(); });
+})();
+</script>
 
 </body>
 </html>
