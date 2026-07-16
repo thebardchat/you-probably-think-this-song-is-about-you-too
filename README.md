@@ -1,18 +1,35 @@
+<div align="center">
+
 # You Probably Think This Song Is About You Too
 
-**14+ original tracks — a noir song cycle by Shane Brazelton**
+### A Noir Song Cycle · Volume Two · by Shane Brazelton
 
-Volume Two of a two-part noir masterpiece. The album after the movie. The detective didn't retire — he kept driving. But now he's not just watching. He's *inhabiting*. Ripped out of his own body, dropped into the bodies of strangers at a European diner, living one second over and over from nine different perspectives, trying to change a tragic outcome he can never change.
+[![Read on Amazon](https://img.shields.io/badge/📖_READ_ON_AMAZON-Out_Now-c8823c?style=for-the-badge)](https://a.co/d/0fZzwiAd)
+[![Live Site](https://img.shields.io/badge/LIVE-thebardchat.github.io-1a1610?style=for-the-badge)](https://thebardchat.github.io/you-probably-think-this-song-is-about-you-too/)
+
+*He is everyone and no one at the same time. That's not a riddle. That's the whole album.*
+
+</div>
+
+---
+
+The album after the movie. The detective didn't retire — he kept driving. But now he's not just watching. He's *inhabiting*. Ripped out of his own body, dropped into the bodies of strangers at a European diner, living one second over and over from nine different perspectives, trying to change a tragic outcome he can never change.
 
 All of it happening on a therapist's couch — though you don't know that until the hidden track.
 
 > *"Don't stop. Don't quit. Speed is what we need. Kick it in high gear."*
 
+**📖 [Read it on Amazon](https://a.co/d/0fZzwiAd)** · **🌐 [The site](https://thebardchat.github.io/you-probably-think-this-song-is-about-you-too/)**
+
 ---
 
-## Companion to
+## The Trilogy — one record, three sides
 
-[You Probably Think This Book Is About You](https://github.com/thebardchat/you-probably-think-this-book-is-about-you) — noir vignette book, Vol. 1 — 22 scenes, ~12,800 words, complete first draft, audiobook recorded (78 min)
+| Vol. | Title | Form | Where |
+|------|-------|------|-------|
+| **I** | *…This Book Is About You* | Noir vignette book — the movie | [Amazon](https://www.amazon.com/Probably-Think-This-Book-About/dp/B0GT25R5FD) · [Repo](https://github.com/thebardchat/you-probably-think-this-book-is-about-you) |
+| **II** | *…This Song Is About You Too* | Noir song cycle — the album *(you are here)* | [Amazon](https://a.co/d/0fZzwiAd) · [Site](https://thebardchat.github.io/you-probably-think-this-song-is-about-you-too/) |
+| **III** | **DARK SEVEN** | Noir blood comic — the culmination | [Site](https://thebardchat.github.io/dark_seven/) · [Repo](https://github.com/thebardchat/dark_seven) |
 
 This album is the second side of the same record.
 
