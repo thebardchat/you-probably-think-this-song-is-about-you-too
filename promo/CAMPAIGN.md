@@ -1,7 +1,7 @@
 # Book Launch Campaign — You Probably Think This Song Is About You Too
 
 ## Links (copy-paste ready)
-- **Amazon:** https://www.amazon.com/dp/B0VOLUME2 *(Update with ASIN once published)*
+- **Amazon:** https://www.amazon.com/dp/B0H6GWT8KB *(Update with ASIN once published)*
 - **Process repo:** https://github.com/thebardchat/noir-detective-writing-process
 - **GitHub profile:** https://github.com/thebardchat
 
@@ -37,7 +37,7 @@ Co-built with Claude (Anthropic). Compiled on a Raspberry Pi 5 in a closet in Ha
 
 "He is everyone and no one at the same time. That's not a riddle. That's the whole album."
 
-Available now on Amazon: https://www.amazon.com/dp/B0VOLUME2
+Available now on Amazon: https://www.amazon.com/dp/B0H6GWT8KB
 
 #NoirFiction #IndieAuthor #AIWriting #WritingCommunity #NewBook #RaspberryPi #SelfPublished
 
@@ -55,7 +55,7 @@ How to write and compile a 43,000-word book + audiobook script in a closet:
 5. Sober since November 2023. Every line built in the margins.
 
 Open source writing process: https://github.com/thebardchat/noir-detective-writing-process
-The book: https://www.amazon.com/dp/B0VOLUME2
+The book: https://www.amazon.com/dp/B0H6GWT8KB
 
 #BuildInPublic #RaspberryPi #Python #AITools #IndieAuthor
 
@@ -75,7 +75,7 @@ A woman in a red dress she wasn't supposed to be wearing.
 You probably think this song is about you too.
 You're right.
 
-https://www.amazon.com/dp/B0VOLUME2
+https://www.amazon.com/dp/B0H6GWT8KB
 
 ---
 
@@ -90,7 +90,7 @@ I recorded raw transcripts while driving, dispatching dump trucks, and living. C
 
 The voice is mine. The cadence is mine. The tool helped me find the form.
 
-The book: https://www.amazon.com/dp/B0VOLUME2
+The book: https://www.amazon.com/dp/B0H6GWT8KB
 The process (open source): https://github.com/thebardchat/noir-detective-writing-process
 
 #GenerativeAI #WritingProcess #AIPairProgramming #ClaudeAI
@@ -112,7 +112,7 @@ It's a book about Penance, but it's also about seeing people. Really seeing them
 
 It's never too late to be Seen.
 
-https://www.amazon.com/dp/B0VOLUME2
+https://www.amazon.com/dp/B0H6GWT8KB
 
 ---
 
